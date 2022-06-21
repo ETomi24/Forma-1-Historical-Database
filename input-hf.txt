@@ -1,0 +1,2398 @@
+RACE;2009;Australian Grand Prix;1;1
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Rubens Barrichello;Brawn
+RESULT;3;Jarno Trulli;Toyota
+RESULT;4;Timo Glock;Toyota
+RESULT;5;Fernando Alonso;Renault
+RESULT;6;Nico Rosberg;Williams
+RESULT;7;Sébastien Buemi;Toro Rosso
+RESULT;8;Sébastien Bourdais;Toro Rosso
+RESULT;9;Adrian Sutil;Force India
+RESULT;10;Nick Heidfeld;BMW Sauber
+RESULT;11;Giancarlo Fisichella;Force India
+RESULT;12;Mark Webber;Red Bull
+RESULT;13;Sebastian Vettel;Red Bull
+RESULT;14;Robert Kubica;BMW Sauber
+RESULT;15;Kimi Räikkönen;Ferrari
+RESULT;16;Felipe Massa;Ferrari
+RESULT;17;Nelson Piquet Jr.;Renault
+RESULT;18;Kazuki Nakajima;Williams
+RESULT;19;Heikki Kovalainen;McLaren
+RESULT;20;Lewis Hamilton;McLaren
+FASTEST;Nico Rosberg;Williams
+FINISH
+RACE;2009;Malaysian Grand Prix;2;0.5
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;Timo Glock;Toyota
+RESULT;4;Jarno Trulli;Toyota
+RESULT;5;Rubens Barrichello;Brawn
+RESULT;6;Mark Webber;Red Bull
+RESULT;7;Lewis Hamilton;McLaren
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;Felipe Massa;Ferrari
+RESULT;10;Sébastien Bourdais;Toro Rosso
+RESULT;11;Fernando Alonso;Renault
+RESULT;12;Kazuki Nakajima;Williams
+RESULT;13;Nelson Piquet Jr.;Renault
+RESULT;14;Kimi Räikkönen;Ferrari
+RESULT;15;Sebastian Vettel;Red Bull
+RESULT;16;Sébastien Buemi;Toro Rosso
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Giancarlo Fisichella;Force India
+RESULT;19;Robert Kubica;BMW Sauber
+RESULT;20;Heikki Kovalainen;McLaren
+FASTEST;Jenson Button;Brawn
+FINISH
+RACE;2009;Chinese Grand Prix;3;1
+RESULT;1;Sebastian Vettel;Red Bull
+RESULT;2;Mark Webber;Red Bull
+RESULT;3;Jenson Button;Brawn
+RESULT;4;Rubens Barrichello;Brawn
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Lewis Hamilton;McLaren
+RESULT;7;Timo Glock;Toyota
+RESULT;8;Sébastien Buemi;Toro Rosso
+RESULT;9;Fernando Alonso;Renault
+RESULT;10;Kimi Räikkönen;Ferrari
+RESULT;11;Sébastien Bourdais;Toro Rosso
+RESULT;12;Nick Heidfeld;BMW Sauber
+RESULT;13;Robert Kubica;BMW Sauber
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Nico Rosberg;Williams
+RESULT;16;Nelson Piquet Jr.;Renault
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Kazuki Nakajima;Williams
+RESULT;19;Felipe Massa;Ferrari
+RESULT;20;Jarno Trulli;Toyota
+FASTEST;Rubens Barrichello;Brawn
+FINISH
+RACE;2009;Bahrain Grand Prix;4;1
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Sebastian Vettel;Red Bull
+RESULT;3;Jarno Trulli;Toyota
+RESULT;4;Lewis Hamilton;McLaren
+RESULT;5;Rubens Barrichello;Brawn
+RESULT;6;Kimi Räikkönen;Ferrari
+RESULT;7;Timo Glock;Toyota
+RESULT;8;Fernando Alonso;Renault
+RESULT;9;Nico Rosberg;Williams
+RESULT;10;Nelson Piquet Jr.;Renault
+RESULT;11;Mark Webber;Red Bull
+RESULT;12;Heikki Kovalainen;McLaren
+RESULT;13;Sébastien Bourdais;Toro Rosso
+RESULT;14;Felipe Massa;Ferrari
+RESULT;15;Giancarlo Fisichella;Force India
+RESULT;16;Adrian Sutil;Force India
+RESULT;17;Sébastien Buemi;Toro Rosso
+RESULT;18;Robert Kubica;BMW Sauber
+RESULT;19;Nick Heidfeld;BMW Sauber
+RESULT;20;Kazuki Nakajima;Williams
+FASTEST;Jarno Trulli;Toyota
+FINISH
+RACE;2009;Spanish Grand Prix;5;1
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Rubens Barrichello;Brawn
+RESULT;3;Mark Webber;Red Bull
+RESULT;4;Sebastian Vettel;Red Bull
+RESULT;5;Fernando Alonso;Renault
+RESULT;6;Felipe Massa;Ferrari
+RESULT;7;Nick Heidfeld;BMW Sauber
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;Lewis Hamilton;McLaren
+RESULT;10;Timo Glock;Toyota
+RESULT;11;Robert Kubica;BMW Sauber
+RESULT;12;Nelson Piquet Jr.;Renault
+RESULT;13;Kazuki Nakajima;Williams
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Kimi Räikkönen;Ferrari
+RESULT;16;Heikki Kovalainen;McLaren
+RESULT;17;Jarno Trulli;Toyota
+RESULT;18;Sébastien Buemi;Toro Rosso
+RESULT;19;Sébastien Bourdais;Toro Rosso
+RESULT;20;Adrian Sutil;Force India
+FASTEST;Rubens Barrichello;Brawn
+FINISH
+RACE;2009;Monaco Grand Prix;6;1
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Rubens Barrichello;Brawn
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Felipe Massa;Ferrari
+RESULT;5;Mark Webber;Red Bull
+RESULT;6;Nico Rosberg;Williams
+RESULT;7;Fernando Alonso;Renault
+RESULT;8;Sébastien Bourdais;Toro Rosso
+RESULT;9;Giancarlo Fisichella;Force India
+RESULT;10;Timo Glock;Toyota
+RESULT;11;Nick Heidfeld;BMW Sauber
+RESULT;12;Lewis Hamilton;McLaren
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Adrian Sutil;Force India
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Heikki Kovalainen;McLaren
+RESULT;17;Robert Kubica;BMW Sauber
+RESULT;18;Sebastian Vettel;Red Bull
+RESULT;19;Nelson Piquet Jr.;Renault
+RESULT;20;Sébastien Buemi;Toro Rosso
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2009;Turkish Grand Prix;7;1
+RESULT;1;Jenson Button;Brawn
+RESULT;2;Mark Webber;Red Bull
+RESULT;3;Sebastian Vettel;Red Bull
+RESULT;4;Jarno Trulli;Toyota
+RESULT;5;Nico Rosberg;Williams
+RESULT;6;Felipe Massa;Ferrari
+RESULT;7;Robert Kubica;BMW Sauber
+RESULT;8;Timo Glock;Toyota
+RESULT;9;Kimi Räikkönen;Ferrari
+RESULT;10;Fernando Alonso;Renault
+RESULT;11;Nick Heidfeld;BMW Sauber
+RESULT;12;Kazuki Nakajima;Williams
+RESULT;13;Lewis Hamilton;McLaren
+RESULT;14;Heikki Kovalainen;McLaren
+RESULT;15;Sébastien Buemi;Toro Rosso
+RESULT;16;Nelson Piquet Jr.;Renault
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Sébastien Bourdais;Toro Rosso
+RESULT;19;Rubens Barrichello;Brawn
+RESULT;20;Giancarlo Fisichella;Force India
+FASTEST;Jenson Button;Brawn
+FINISH
+RACE;2009;British Grand Prix;8;1
+RESULT;1;Sebastian Vettel;Red Bull
+RESULT;2;Mark Webber;Red Bull
+RESULT;3;Rubens Barrichello;Brawn
+RESULT;4;Felipe Massa;Ferrari
+RESULT;5;Nico Rosberg;Williams
+RESULT;6;Jenson Button;Brawn
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Kimi Räikkönen;Ferrari
+RESULT;9;Timo Glock;Toyota
+RESULT;10;Giancarlo Fisichella;Force India
+RESULT;11;Kazuki Nakajima;Williams
+RESULT;12;Nelson Piquet Jr.;Renault
+RESULT;13;Robert Kubica;BMW Sauber
+RESULT;14;Fernando Alonso;Renault
+RESULT;15;Nick Heidfeld;BMW Sauber
+RESULT;16;Lewis Hamilton;McLaren
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Sébastien Buemi;Toro Rosso
+RESULT;19;Sébastien Bourdais;Toro Rosso
+RESULT;20;Heikki Kovalainen;McLaren
+FASTEST;Sebastian Vettel;Red Bull
+FINISH
+RACE;2009;German Grand Prix;9;1
+RESULT;1;Mark Webber;Red Bull
+RESULT;2;Sebastian Vettel;Red Bull
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Nico Rosberg;Williams
+RESULT;5;Jenson Button;Brawn
+RESULT;6;Rubens Barrichello;Brawn
+RESULT;7;Fernando Alonso;Renault
+RESULT;8;Heikki Kovalainen;McLaren
+RESULT;9;Timo Glock;Toyota
+RESULT;10;Nick Heidfeld;BMW Sauber
+RESULT;11;Giancarlo Fisichella;Force India
+RESULT;12;Kazuki Nakajima;Williams
+RESULT;13;Nelson Piquet Jr.;Renault
+RESULT;14;Robert Kubica;BMW Sauber
+RESULT;15;Adrian Sutil;Force India
+RESULT;16;Sébastien Buemi;Toro Rosso
+RESULT;17;Jarno Trulli;Toyota
+RESULT;18;Lewis Hamilton;McLaren
+RESULT;19;Kimi Räikkönen;Ferrari
+RESULT;20;Sébastien Bourdais;Toro Rosso
+FASTEST;Fernando Alonso;Renault
+FINISH
+RACE;2009;Hungarian Grand Prix;10;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Mark Webber;Red Bull
+RESULT;4;Nico Rosberg;Williams
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Timo Glock;Toyota
+RESULT;7;Jenson Button;Brawn
+RESULT;8;Jarno Trulli;Toyota
+RESULT;9;Kazuki Nakajima;Williams
+RESULT;10;Rubens Barrichello;Brawn
+RESULT;11;Nick Heidfeld;BMW Sauber
+RESULT;12;Nelson Piquet Jr.;Renault
+RESULT;13;Robert Kubica;BMW Sauber
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Jaime Alguersuari;Toro Rosso
+RESULT;16;Sébastien Buemi;Toro Rosso
+RESULT;17;Sebastian Vettel;Red Bull
+RESULT;18;Fernando Alonso;Renault
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Felipe Massa;Ferrari
+FASTEST;Mark Webber;Red Bull
+FINISH
+RACE;2009;European Grand Prix;11;1
+RESULT;1;Rubens Barrichello;Brawn
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Heikki Kovalainen;McLaren
+RESULT;5;Nico Rosberg;Williams
+RESULT;6;Fernando Alonso;Renault
+RESULT;7;Jenson Button;Brawn
+RESULT;8;Robert Kubica;BMW Sauber
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Adrian Sutil;Force India
+RESULT;11;Nick Heidfeld;BMW Sauber
+RESULT;12;Giancarlo Fisichella;Force India
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Timo Glock;Toyota
+RESULT;15;Romain Grosjean;Renault
+RESULT;16;Jaime Alguersuari;Toro Rosso
+RESULT;17;Luca Badoer;Ferrari
+RESULT;18;Kazuki Nakajima;Williams
+RESULT;19;Sébastien Buemi;Toro Rosso
+RESULT;20;Sebastian Vettel;Red Bull
+FASTEST;Timo Glock;Toyota
+FINISH
+RACE;2009;Belgian Grand Prix;12;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Giancarlo Fisichella;Force India
+RESULT;3;Sebastian Vettel;Red Bull
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Heikki Kovalainen;McLaren
+RESULT;7;Rubens Barrichello;Brawn
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Timo Glock;Toyota
+RESULT;11;Adrian Sutil;Force India
+RESULT;12;Sébastien Buemi;Toro Rosso
+RESULT;13;Kazuki Nakajima;Williams
+RESULT;14;Luca Badoer;Ferrari
+RESULT;15;Fernando Alonso;Renault
+RESULT;16;Jarno Trulli;Toyota
+RESULT;17;Jenson Button;Brawn
+RESULT;18;Romain Grosjean;Renault
+RESULT;19;Lewis Hamilton;McLaren
+RESULT;20;Jaime Alguersuari;Toro Rosso
+FASTEST;Sebastian Vettel;Red Bull
+FINISH
+RACE;2009;Italian Grand Prix;13;1
+RESULT;1;Rubens Barrichello;Brawn
+RESULT;2;Jenson Button;Brawn
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Adrian Sutil;Force India
+RESULT;5;Fernando Alonso;Renault
+RESULT;6;Heikki Kovalainen;McLaren
+RESULT;7;Nick Heidfeld;BMW Sauber
+RESULT;8;Sebastian Vettel;Red Bull
+RESULT;9;Giancarlo Fisichella;Ferrari
+RESULT;10;Kazuki Nakajima;Williams
+RESULT;11;Timo Glock;Toyota
+RESULT;12;Lewis Hamilton;McLaren
+RESULT;13;Sébastien Buemi;Toro Rosso
+RESULT;14;Jarno Trulli;Toyota
+RESULT;15;Romain Grosjean;Renault
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Vitantonio Liuzzi;Force India
+RESULT;18;Jaime Alguersuari;Toro Rosso
+RESULT;19;Robert Kubica;BMW Sauber
+RESULT;20;Mark Webber;Red Bull
+FASTEST;Adrian Sutil;Force India
+FINISH
+RACE;2009;Singapore Grand Prix;14;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Timo Glock;Toyota
+RESULT;3;Fernando Alonso;Renault
+RESULT;4;Sebastian Vettel;Red Bull
+RESULT;5;Jenson Button;Brawn
+RESULT;6;Rubens Barrichello;Brawn
+RESULT;7;Heikki Kovalainen;McLaren
+RESULT;8;Robert Kubica;BMW Sauber
+RESULT;9;Kazuki Nakajima;Williams
+RESULT;10;Kimi Räikkönen;Ferrari
+RESULT;11;Nico Rosberg;Williams
+RESULT;12;Jarno Trulli;Toyota
+RESULT;13;Giancarlo Fisichella;Ferrari
+RESULT;14;Vitantonio Liuzzi;Force India
+RESULT;15;Jaime Alguersuari;Toro Rosso
+RESULT;16;Sébastien Buemi;Toro Rosso
+RESULT;17;Mark Webber;Red Bull
+RESULT;18;Adrian Sutil;Force India
+RESULT;19;Nick Heidfeld;BMW Sauber
+RESULT;20;Romain Grosjean;Renault
+FASTEST;Fernando Alonso;Renault
+FINISH
+RACE;2009;Japanese Grand Prix;15;1
+RESULT;1;Sebastian Vettel;Red Bull
+RESULT;2;Jarno Trulli;Toyota
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Kimi Räikkönen;Ferrari
+RESULT;5;Nico Rosberg;Williams
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Rubens Barrichello;Brawn
+RESULT;8;Jenson Button;Brawn
+RESULT;9;Robert Kubica;BMW Sauber
+RESULT;10;Fernando Alonso;Renault
+RESULT;11;Heikki Kovalainen;McLaren
+RESULT;12;Giancarlo Fisichella;Ferrari
+RESULT;13;Adrian Sutil;Force India
+RESULT;14;Vitantonio Liuzzi;Force India
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Romain Grosjean;Renault
+RESULT;17;Mark Webber;Red Bull
+RESULT;18;Jaime Alguersuari;Toro Rosso
+RESULT;19;Sébastien Buemi;Toro Rosso
+RESULT;20;Timo Glock;Toyota
+FASTEST;Mark Webber;Red Bull
+FINISH
+RACE;2009;Brazilian Grand Prix;16;1
+RESULT;1;Mark Webber;Red Bull
+RESULT;2;Robert Kubica;BMW Sauber
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Sebastian Vettel;Red Bull
+RESULT;5;Jenson Button;Brawn
+RESULT;6;Kimi Räikkönen;Ferrari
+RESULT;7;Sébastien Buemi;Toro Rosso
+RESULT;8;Rubens Barrichello;Brawn
+RESULT;9;Heikki Kovalainen;McLaren
+RESULT;10;Kamui Kobayashi;Toyota
+RESULT;11;Giancarlo Fisichella;Ferrari
+RESULT;12;Vitantonio Liuzzi;Force India
+RESULT;13;Romain Grosjean;Renault
+RESULT;14;Jaime Alguersuari;Toro Rosso
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Nick Heidfeld;BMW Sauber
+RESULT;18;Adrian Sutil;Force India
+RESULT;19;Jarno Trulli;Toyota
+RESULT;20;Fernando Alonso;Renault
+FASTEST;Mark Webber;Red Bull
+FINISH
+RACE;2009;Abu Dhabi Grand Prix;17;1
+RESULT;1;Sebastian Vettel;Red Bull
+RESULT;2;Mark Webber;Red Bull
+RESULT;3;Jenson Button;Brawn
+RESULT;4;Rubens Barrichello;Brawn
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Kamui Kobayashi;Toyota
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Sébastien Buemi;Toro Rosso
+RESULT;9;Nico Rosberg;Williams
+RESULT;10;Robert Kubica;BMW Sauber
+RESULT;11;Heikki Kovalainen;McLaren
+RESULT;12;Kimi Räikkönen;Ferrari
+RESULT;13;Kazuki Nakajima;Williams
+RESULT;14;Fernando Alonso;Renault
+RESULT;15;Vitantonio Liuzzi;Force India
+RESULT;16;Giancarlo Fisichella;Ferrari
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Romain Grosjean;Renault
+RESULT;19;Lewis Hamilton;McLaren
+RESULT;20;Jaime Alguersuari;Toro Rosso
+FASTEST;Sebastian Vettel;Red Bull
+FINISH
+RACE;2008;Australian Grand Prix;1;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;Nico Rosberg;Williams
+RESULT;4;Fernando Alonso;Renault
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Kazuki Nakajima;Williams
+RESULT;7;Sébastien Bourdais;Toro Rosso
+RESULT;8;Kimi Räikkönen;Ferrari
+RESULT;9;Robert Kubica;BMW Sauber
+RESULT;10;Timo Glock;Toyota
+RESULT;11;Takuma Sato;Super Aguri
+RESULT;12;Nelson Piquet Jr.;Renault
+RESULT;13;Felipe Massa;Ferrari
+RESULT;14;David Coulthard;Red Bull
+RESULT;15;Jarno Trulli;Toyota
+RESULT;16;Adrian Sutil;Force India
+RESULT;17;Mark Webber;Red Bull
+RESULT;18;Jenson Button;Honda
+RESULT;19;Anthony Davidson;Super Aguri
+RESULT;20;Sebastian Vettel;Toro Rosso
+RESULT;21;Giancarlo Fisichella;Force India
+RESULT;22;Rubens Barrichello;Honda
+FASTEST;Heikki Kovalainen;McLaren
+FINISH
+RACE;2008;Malaysian Grand Prix;2;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Robert Kubica;BMW Sauber
+RESULT;3;Heikki Kovalainen;McLaren
+RESULT;4;Jarno Trulli;Toyota
+RESULT;5;Lewis Hamilton;McLaren
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Mark Webber;Red Bull
+RESULT;8;Fernando Alonso;Renault
+RESULT;9;David Coulthard;Red Bull
+RESULT;10;Jenson Button;Honda
+RESULT;11;Nelson Piquet Jr.;Renault
+RESULT;12;Giancarlo Fisichella;Force India
+RESULT;13;Rubens Barrichello;Honda
+RESULT;14;Nico Rosberg;Williams
+RESULT;15;Anthony Davidson;Super Aguri
+RESULT;16;Takuma Sato;Super Aguri
+RESULT;17;Kazuki Nakajima;Williams
+RESULT;18;Sebastian Vettel;Toro Rosso
+RESULT;19;Felipe Massa;Ferrari
+RESULT;20;Adrian Sutil;Force India
+RESULT;21;Timo Glock;Toyota
+RESULT;22;Sébastien Bourdais;Toro Rosso
+FASTEST;Nick Heidfeld;BMW Sauber
+FINISH
+RACE;2008;Bahrain Grand Prix;3;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Robert Kubica;BMW Sauber
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Jarno Trulli;Toyota
+RESULT;7;Mark Webber;Red Bull
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;Timo Glock;Toyota
+RESULT;10;Fernando Alonso;Renault
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Giancarlo Fisichella;Force India
+RESULT;13;Lewis Hamilton;McLaren
+RESULT;14;Kazuki Nakajima;Williams
+RESULT;15;Sébastien Bourdais;Toro Rosso
+RESULT;16;Anthony Davidson;Super Aguri
+RESULT;17;Takuma Sato;Super Aguri
+RESULT;18;David Coulthard;Red Bull
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Nelson Piquet Jr.;Renault
+RESULT;21;Jenson Button;Honda
+RESULT;22;Sebastian Vettel;Toro Rosso
+FASTEST;Heikki Kovalainen;McLaren
+FINISH
+RACE;2008;Spanish Grand Prix;4;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;Mark Webber;Red Bull
+RESULT;6;Jenson Button;Honda
+RESULT;7;Kazuki Nakajima;Williams
+RESULT;8;Jarno Trulli;Toyota
+RESULT;9;Nick Heidfeld;BMW Sauber
+RESULT;10;Giancarlo Fisichella;Force India
+RESULT;11;Timo Glock;Toyota
+RESULT;12;David Coulthard;Red Bull
+RESULT;13;Takuma Sato;Super Aguri
+RESULT;14;Nico Rosberg;Williams
+RESULT;15;Fernando Alonso;Renault
+RESULT;16;Rubens Barrichello;Honda
+RESULT;17;Heikki Kovalainen;McLaren
+RESULT;18;Anthony Davidson;Super Aguri
+RESULT;19;Sébastien Bourdais;Toro Rosso
+RESULT;20;Nelson Piquet Jr.;Renault
+RESULT;21;Adrian Sutil;Force India
+RESULT;22;Sebastian Vettel;Toro Rosso
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Turkish Grand Prix;5;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Fernando Alonso;Renault
+RESULT;7;Mark Webber;Red Bull
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;David Coulthard;Red Bull
+RESULT;10;Jarno Trulli;Toyota
+RESULT;11;Jenson Button;Honda
+RESULT;12;Heikki Kovalainen;McLaren
+RESULT;13;Timo Glock;Toyota
+RESULT;14;Rubens Barrichello;Honda
+RESULT;15;Nelson Piquet Jr.;Renault
+RESULT;16;Adrian Sutil;Force India
+RESULT;17;Sebastian Vettel;Toro Rosso
+RESULT;18;Sébastien Bourdais;Toro Rosso
+RESULT;19;Kazuki Nakajima;Williams
+RESULT;20;Giancarlo Fisichella;Force India
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Monaco Grand Prix;6;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Robert Kubica;BMW Sauber
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Mark Webber;Red Bull
+RESULT;5;Sebastian Vettel;Toro Rosso
+RESULT;6;Rubens Barrichello;Honda
+RESULT;7;Kazuki Nakajima;Williams
+RESULT;8;Heikki Kovalainen;McLaren
+RESULT;9;Kimi Räikkönen;Ferrari
+RESULT;10;Fernando Alonso;Renault
+RESULT;11;Jenson Button;Honda
+RESULT;12;Timo Glock;Toyota
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Nick Heidfeld;BMW Sauber
+RESULT;15;Adrian Sutil;Force India
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Nelson Piquet Jr.;Renault
+RESULT;18;Giancarlo Fisichella;Force India
+RESULT;19;David Coulthard;Red Bull
+RESULT;20;Sébastien Bourdais;Toro Rosso
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Canadian Grand Prix;7;1
+RESULT;1;Robert Kubica;BMW Sauber
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;David Coulthard;Red Bull
+RESULT;4;Timo Glock;Toyota
+RESULT;5;Felipe Massa;Ferrari
+RESULT;6;Jarno Trulli;Toyota
+RESULT;7;Rubens Barrichello;Honda
+RESULT;8;Sebastian Vettel;Toro Rosso
+RESULT;9;Heikki Kovalainen;McLaren
+RESULT;10;Nico Rosberg;Williams
+RESULT;11;Jenson Button;Honda
+RESULT;12;Mark Webber;Red Bull
+RESULT;13;Sébastien Bourdais;Toro Rosso
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Fernando Alonso;Renault
+RESULT;17;Nelson Piquet Jr.;Renault
+RESULT;18;Kimi Räikkönen;Ferrari
+RESULT;19;Lewis Hamilton;McLaren
+RESULT;20;Adrian Sutil;Force India
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;French Grand Prix;8;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Jarno Trulli;Toyota
+RESULT;4;Heikki Kovalainen;McLaren
+RESULT;5;Robert Kubica;BMW Sauber
+RESULT;6;Mark Webber;Red Bull
+RESULT;7;Nelson Piquet Jr.;Renault
+RESULT;8;Fernando Alonso;Renault
+RESULT;9;David Coulthard;Red Bull
+RESULT;10;Lewis Hamilton;McLaren
+RESULT;11;Timo Glock;Toyota
+RESULT;12;Sebastian Vettel;Toro Rosso
+RESULT;13;Nick Heidfeld;BMW Sauber
+RESULT;14;Rubens Barrichello;Honda
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Sébastien Bourdais;Toro Rosso
+RESULT;18;Giancarlo Fisichella;Force India
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Jenson Button;Honda
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;British Grand Prix;9;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;Rubens Barrichello;Honda
+RESULT;4;Kimi Räikkönen;Ferrari
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Fernando Alonso;Renault
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Kazuki Nakajima;Williams
+RESULT;9;Nico Rosberg;Williams
+RESULT;10;Mark Webber;Red Bull
+RESULT;11;Sébastien Bourdais;Toro Rosso
+RESULT;12;Timo Glock;Toyota
+RESULT;13;Felipe Massa;Ferrari
+RESULT;14;Robert Kubica;BMW Sauber
+RESULT;15;Jenson Button;Honda
+RESULT;16;Nelson Piquet Jr.;Renault
+RESULT;17;Giancarlo Fisichella;Force India
+RESULT;18;Adrian Sutil;Force India
+RESULT;19;Sebastian Vettel;Toro Rosso
+RESULT;20;David Coulthard;Red Bull
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;German Grand Prix;10;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Nelson Piquet Jr.;Renault
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Heikki Kovalainen;McLaren
+RESULT;6;Kimi Räikkönen;Ferrari
+RESULT;7;Robert Kubica;BMW Sauber
+RESULT;8;Sebastian Vettel;Toro Rosso
+RESULT;9;Jarno Trulli;Toyota
+RESULT;10;Nico Rosberg;Williams
+RESULT;11;Fernando Alonso;Renault
+RESULT;12;Sébastien Bourdais;Toro Rosso
+RESULT;13;David Coulthard;Red Bull
+RESULT;14;Kazuki Nakajima;Williams
+RESULT;15;Adrian Sutil;Force India
+RESULT;16;Giancarlo Fisichella;Force India
+RESULT;17;Jenson Button;Honda
+RESULT;18;Rubens Barrichello;Honda
+RESULT;19;Mark Webber;Red Bull
+RESULT;20;Timo Glock;Toyota
+FASTEST;Nick Heidfeld;BMW Sauber
+FINISH
+RACE;2008;Hungarian Grand Prix;11;1
+RESULT;1;Heikki Kovalainen;McLaren
+RESULT;2;Timo Glock;Toyota
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Fernando Alonso;Renault
+RESULT;5;Lewis Hamilton;McLaren
+RESULT;6;Nelson Piquet Jr.;Renault
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Robert Kubica;BMW Sauber
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Nick Heidfeld;BMW Sauber
+RESULT;11;David Coulthard;Red Bull
+RESULT;12;Jenson Button;Honda
+RESULT;13;Kazuki Nakajima;Williams
+RESULT;14;Nico Rosberg;Williams
+RESULT;15;Giancarlo Fisichella;Force India
+RESULT;16;Rubens Barrichello;Honda
+RESULT;17;Felipe Massa;Ferrari
+RESULT;18;Sébastien Bourdais;Toro Rosso
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Sebastian Vettel;Toro Rosso
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;European Grand Prix;12;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Robert Kubica;BMW Sauber
+RESULT;4;Heikki Kovalainen;McLaren
+RESULT;5;Jarno Trulli;Toyota
+RESULT;6;Sebastian Vettel;Toro Rosso
+RESULT;7;Timo Glock;Toyota
+RESULT;8;Nico Rosberg;Williams
+RESULT;9;Nick Heidfeld;BMW Sauber
+RESULT;10;Sébastien Bourdais;Toro Rosso
+RESULT;11;Nelson Piquet Jr.;Renault
+RESULT;12;Mark Webber;Red Bull
+RESULT;13;Jenson Button;Honda
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Rubens Barrichello;Honda
+RESULT;17;David Coulthard;Red Bull
+RESULT;18;Kimi Räikkönen;Ferrari
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Fernando Alonso;Renault
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2008;Belgian Grand Prix;13;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Fernando Alonso;Renault
+RESULT;5;Sebastian Vettel;Toro Rosso
+RESULT;6;Robert Kubica;BMW Sauber
+RESULT;7;Sébastien Bourdais;Toro Rosso
+RESULT;8;Mark Webber;Red Bull
+RESULT;9;Timo Glock;Toyota
+RESULT;10;Heikki Kovalainen;McLaren
+RESULT;11;David Coulthard;Red Bull
+RESULT;12;Nico Rosberg;Williams
+RESULT;13;Adrian Sutil;Force India
+RESULT;14;Kazuki Nakajima;Williams
+RESULT;15;Jenson Button;Honda
+RESULT;16;Jarno Trulli;Toyota
+RESULT;17;Giancarlo Fisichella;Force India
+RESULT;18;Kimi Räikkönen;Ferrari
+RESULT;19;Rubens Barrichello;Honda
+RESULT;20;Nelson Piquet Jr.;Renault
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Italian Grand Prix;14;1
+RESULT;1;Sebastian Vettel;Toro Rosso
+RESULT;2;Heikki Kovalainen;McLaren
+RESULT;3;Robert Kubica;BMW Sauber
+RESULT;4;Fernando Alonso;Renault
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Felipe Massa;Ferrari
+RESULT;7;Lewis Hamilton;McLaren
+RESULT;8;Mark Webber;Red Bull
+RESULT;9;Kimi Räikkönen;Ferrari
+RESULT;10;Nelson Piquet Jr.;Renault
+RESULT;11;Timo Glock;Toyota
+RESULT;12;Kazuki Nakajima;Williams
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Nico Rosberg;Williams
+RESULT;15;Jenson Button;Honda
+RESULT;16;David Coulthard;Red Bull
+RESULT;17;Rubens Barrichello;Honda
+RESULT;18;Sébastien Bourdais;Toro Rosso
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Giancarlo Fisichella;Force India
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Singapore Grand Prix;15;1
+RESULT;1;Fernando Alonso;Renault
+RESULT;2;Nico Rosberg;Williams
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Timo Glock;Toyota
+RESULT;5;Sebastian Vettel;Toro Rosso
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;David Coulthard;Red Bull
+RESULT;8;Kazuki Nakajima;Williams
+RESULT;9;Jenson Button;Honda
+RESULT;10;Heikki Kovalainen;McLaren
+RESULT;11;Robert Kubica;BMW Sauber
+RESULT;12;Sébastien Bourdais;Toro Rosso
+RESULT;13;Felipe Massa;Ferrari
+RESULT;14;Giancarlo Fisichella;Force India
+RESULT;15;Kimi Räikkönen;Ferrari
+RESULT;16;Jarno Trulli;Toyota
+RESULT;17;Adrian Sutil;Force India
+RESULT;18;Mark Webber;Red Bull
+RESULT;19;Rubens Barrichello;Honda
+RESULT;20;Nelson Piquet Jr.;Renault
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2008;Japanese Grand Prix;16;1
+RESULT;1;Fernando Alonso;Renault
+RESULT;2;Robert Kubica;BMW Sauber
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Nelson Piquet Jr.;Renault
+RESULT;5;Jarno Trulli;Toyota
+RESULT;6;Sebastian Vettel;Toro Rosso
+RESULT;7;Felipe Massa;Ferrari
+RESULT;8;Mark Webber;Red Bull
+RESULT;9;Nick Heidfeld;BMW Sauber
+RESULT;10;Sébastien Bourdais;Toro Rosso
+RESULT;11;Nico Rosberg;Williams
+RESULT;12;Lewis Hamilton;McLaren
+RESULT;13;Rubens Barrichello;Honda
+RESULT;14;Jenson Button;Honda
+RESULT;15;Kazuki Nakajima;Williams
+RESULT;16;Giancarlo Fisichella;Force India
+RESULT;17;Heikki Kovalainen;McLaren
+RESULT;18;Adrian Sutil;Force India
+RESULT;19;Timo Glock;Toyota
+RESULT;20;David Coulthard;Red Bull
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2008;Chinese Grand Prix;17;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Fernando Alonso;Renault
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Robert Kubica;BMW Sauber
+RESULT;7;Timo Glock;Toyota
+RESULT;8;Nelson Piquet Jr.;Renault
+RESULT;9;Sebastian Vettel;Toro Rosso
+RESULT;10;David Coulthard;Red Bull
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Kazuki Nakajima;Williams
+RESULT;13;Sébastien Bourdais;Toro Rosso
+RESULT;14;Mark Webber;Red Bull
+RESULT;15;Nico Rosberg;Williams
+RESULT;16;Jenson Button;Honda
+RESULT;17;Giancarlo Fisichella;Force India
+RESULT;18;Heikki Kovalainen;McLaren
+RESULT;19;Adrian Sutil;Force India
+RESULT;20;Jarno Trulli;Toyota
+FASTEST;Lewis Hamilton;McLaren
+FINISH
+RACE;2008;Brazilian Grand Prix;18;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Fernando Alonso;Renault
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Sebastian Vettel;Toro Rosso
+RESULT;5;Lewis Hamilton;McLaren
+RESULT;6;Timo Glock;Toyota
+RESULT;7;Heikki Kovalainen;McLaren
+RESULT;8;Jarno Trulli;Toyota
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Nick Heidfeld;BMW Sauber
+RESULT;11;Robert Kubica;BMW Sauber
+RESULT;12;Nico Rosberg;Williams
+RESULT;13;Jenson Button;Honda
+RESULT;14;Sébastien Bourdais;Toro Rosso
+RESULT;15;Rubens Barrichello;Honda
+RESULT;16;Adrian Sutil;Force India
+RESULT;17;Kazuki Nakajima;Williams
+RESULT;18;Giancarlo Fisichella;Force India
+RESULT;19;Nelson Piquet Jr.;Renault
+RESULT;20;David Coulthard;Red Bull
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Australian Grand Prix;1;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Fernando Alonso;McLaren
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Giancarlo Fisichella;Renault
+RESULT;6;Felipe Massa;Ferrari
+RESULT;7;Nico Rosberg;Williams
+RESULT;8;Ralf Schumacher;Toyota
+RESULT;9;Jarno Trulli;Toyota
+RESULT;10;Heikki Kovalainen;Renault
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Takuma Sato;Super Aguri
+RESULT;13;Mark Webber;Red Bull
+RESULT;14;Vitantonio Liuzzi;Toro Rosso
+RESULT;15;Jenson Button;Honda
+RESULT;16;Anthony Davidson;Super Aguri
+RESULT;17;Adrian Sutil;Spyker
+RESULT;18;Alexander Wurz;Williams
+RESULT;19;David Coulthard;Red Bull
+RESULT;20;Robert Kubica;BMW Sauber
+RESULT;21;Scott Speed;Toro Rosso
+RESULT;22;Christijan Albers;Spyker
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2007;Malaysian Grand Prix;2;1
+RESULT;1;Fernando Alonso;McLaren
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Felipe Massa;Ferrari
+RESULT;6;Giancarlo Fisichella;Renault
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Heikki Kovalainen;Renault
+RESULT;9;Alexander Wurz;Williams
+RESULT;10;Mark Webber;Red Bull
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Jenson Button;Honda
+RESULT;13;Takuma Sato;Super Aguri
+RESULT;14;Scott Speed;Toro Rosso
+RESULT;15;Ralf Schumacher;Toyota
+RESULT;16;Anthony Davidson;Super Aguri
+RESULT;17;Vitantonio Liuzzi;Toro Rosso
+RESULT;18;Robert Kubica;BMW Sauber
+RESULT;19;Nico Rosberg;Williams
+RESULT;20;David Coulthard;Red Bull
+RESULT;21;Christijan Albers;Spyker
+RESULT;22;Adrian Sutil;Spyker
+FASTEST;Lewis Hamilton;McLaren
+FINISH
+RACE;2007;Bahrain Grand Prix;3;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Fernando Alonso;McLaren
+RESULT;6;Robert Kubica;BMW Sauber
+RESULT;7;Jarno Trulli;Toyota
+RESULT;8;Giancarlo Fisichella;Renault
+RESULT;9;Heikki Kovalainen;Renault
+RESULT;10;Nico Rosberg;Williams
+RESULT;11;Alexander Wurz;Williams
+RESULT;12;Ralf Schumacher;Toyota
+RESULT;13;Rubens Barrichello;Honda
+RESULT;14;Christijan Albers;Spyker
+RESULT;15;Adrian Sutil;Spyker
+RESULT;16;Anthony Davidson;Super Aguri
+RESULT;17;Mark Webber;Red Bull
+RESULT;18;David Coulthard;Red Bull
+RESULT;19;Takuma Sato;Super Aguri
+RESULT;20;Vitantonio Liuzzi;Toro Rosso
+RESULT;21;Jenson Button;Honda
+RESULT;22;Scott Speed;Toro Rosso
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Spanish Grand Prix;4;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Fernando Alonso;McLaren
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;David Coulthard;Red Bull
+RESULT;6;Nico Rosberg;Williams
+RESULT;7;Heikki Kovalainen;Renault
+RESULT;8;Takuma Sato;Super Aguri
+RESULT;9;Giancarlo Fisichella;Renault
+RESULT;10;Rubens Barrichello;Honda
+RESULT;11;Anthony Davidson;Super Aguri
+RESULT;12;Jenson Button;Honda
+RESULT;13;Adrian Sutil;Spyker
+RESULT;14;Christijan Albers;Spyker
+RESULT;15;Nick Heidfeld;BMW Sauber
+RESULT;16;Ralf Schumacher;Toyota
+RESULT;17;Vitantonio Liuzzi;Toro Rosso
+RESULT;18;Scott Speed;Toro Rosso
+RESULT;19;Kimi Räikkönen;Ferrari
+RESULT;20;Jarno Trulli;Toyota
+RESULT;21;Mark Webber;Red Bull
+RESULT;22;Alexander Wurz;Williams
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Monaco Grand Prix;5;1
+RESULT;1;Fernando Alonso;McLaren
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Giancarlo Fisichella;Renault
+RESULT;5;Robert Kubica;BMW Sauber
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Alexander Wurz;Williams
+RESULT;8;Kimi Räikkönen;Ferrari
+RESULT;9;Scott Speed;Toro Rosso
+RESULT;10;Rubens Barrichello;Honda
+RESULT;11;Jenson Button;Honda
+RESULT;12;Nico Rosberg;Williams
+RESULT;13;Heikki Kovalainen;Renault
+RESULT;14;David Coulthard;Red Bull
+RESULT;15;Jarno Trulli;Toyota
+RESULT;16;Ralf Schumacher;Toyota
+RESULT;17;Takuma Sato;Super Aguri
+RESULT;18;Anthony Davidson;Super Aguri
+RESULT;19;Christijan Albers;Spyker
+RESULT;20;Adrian Sutil;Spyker
+RESULT;21;Mark Webber;Red Bull
+RESULT;22;Vitantonio Liuzzi;Toro Rosso
+FASTEST;Fernando Alonso;McLaren
+FINISH
+RACE;2007;Canadian Grand Prix;6;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Nick Heidfeld;BMW Sauber
+RESULT;3;Alexander Wurz;Williams
+RESULT;4;Heikki Kovalainen;Renault
+RESULT;5;Kimi Räikkönen;Ferrari
+RESULT;6;Takuma Sato;Super Aguri
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Ralf Schumacher;Toyota
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Nico Rosberg;Williams
+RESULT;11;Anthony Davidson;Super Aguri
+RESULT;12;Rubens Barrichello;Honda
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Vitantonio Liuzzi;Toro Rosso
+RESULT;15;Christijan Albers;Spyker
+RESULT;16;David Coulthard;Red Bull
+RESULT;17;Robert Kubica;BMW Sauber
+RESULT;18;Adrian Sutil;Spyker
+RESULT;19;Scott Speed;Toro Rosso
+RESULT;20;Jenson Button;Honda
+RESULT;21;Felipe Massa;Ferrari
+RESULT;22;Giancarlo Fisichella;Renault
+FASTEST;Fernando Alonso;McLaren
+FINISH
+RACE;2007;United States Grand Prix;7;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Fernando Alonso;McLaren
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Kimi Räikkönen;Ferrari
+RESULT;5;Heikki Kovalainen;Renault
+RESULT;6;Jarno Trulli;Toyota
+RESULT;7;Mark Webber;Red Bull
+RESULT;8;Sebastian Vettel;BMW Sauber
+RESULT;9;Giancarlo Fisichella;Renault
+RESULT;10;Alexander Wurz;Williams
+RESULT;11;Anthony Davidson;Super Aguri
+RESULT;12;Jenson Button;Honda
+RESULT;13;Scott Speed;Toro Rosso
+RESULT;14;Adrian Sutil;Spyker
+RESULT;15;Christijan Albers;Spyker
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Vitantonio Liuzzi;Toro Rosso
+RESULT;18;Nick Heidfeld;BMW Sauber
+RESULT;19;Takuma Sato;Super Aguri
+RESULT;20;David Coulthard;Red Bull
+RESULT;21;Rubens Barrichello;Honda
+RESULT;22;Ralf Schumacher;Toyota
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2007;French Grand Prix;8;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Giancarlo Fisichella;Renault
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Jenson Button;Honda
+RESULT;9;Nico Rosberg;Williams
+RESULT;10;Ralf Schumacher;Toyota
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Mark Webber;Red Bull
+RESULT;13;David Coulthard;Red Bull
+RESULT;14;Alexander Wurz;Williams
+RESULT;15;Heikki Kovalainen;Renault
+RESULT;16;Takuma Sato;Super Aguri
+RESULT;17;Adrian Sutil;Spyker
+RESULT;18;Scott Speed;Toro Rosso
+RESULT;19;Christijan Albers;Spyker
+RESULT;20;Anthony Davidson;Super Aguri
+RESULT;21;Jarno Trulli;Toyota
+RESULT;22;Vitantonio Liuzzi;Toro Rosso
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;British Grand Prix;9;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Fernando Alonso;McLaren
+RESULT;3;Lewis Hamilton;McLaren
+RESULT;4;Robert Kubica;BMW Sauber
+RESULT;5;Felipe Massa;Ferrari
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Heikki Kovalainen;Renault
+RESULT;8;Giancarlo Fisichella;Renault
+RESULT;9;Rubens Barrichello;Honda
+RESULT;10;Jenson Button;Honda
+RESULT;11;David Coulthard;Red Bull
+RESULT;12;Nico Rosberg;Williams
+RESULT;13;Alexander Wurz;Williams
+RESULT;14;Takuma Sato;Super Aguri
+RESULT;15;Christijan Albers;Spyker
+RESULT;16;Vitantonio Liuzzi;Toro Rosso
+RESULT;17;Jarno Trulli;Toyota
+RESULT;18;Anthony Davidson;Super Aguri
+RESULT;19;Scott Speed;Toro Rosso
+RESULT;20;Ralf Schumacher;Toyota
+RESULT;21;Adrian Sutil;Spyker
+RESULT;22;Mark Webber;Red Bull
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2007;European Grand Prix;10;1
+RESULT;1;Fernando Alonso;McLaren
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Mark Webber;Red Bull
+RESULT;4;Alexander Wurz;Williams
+RESULT;5;David Coulthard;Red Bull
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Robert Kubica;BMW Sauber
+RESULT;8;Heikki Kovalainen;Renault
+RESULT;9;Lewis Hamilton;McLaren
+RESULT;10;Giancarlo Fisichella;Renault
+RESULT;11;Rubens Barrichello;Honda
+RESULT;12;Anthony Davidson;Super Aguri
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Kimi Räikkönen;Ferrari
+RESULT;15;Takuma Sato;Super Aguri
+RESULT;16;Ralf Schumacher;Toyota
+RESULT;17;Markus Winkelhock;Spyker
+RESULT;18;Jenson Button;Honda
+RESULT;19;Adrian Sutil;Spyker
+RESULT;20;Nico Rosberg;Williams
+RESULT;21;Scott Speed;Toro Rosso
+RESULT;22;Vitantonio Liuzzi;Toro Rosso
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Hungarian Grand Prix;11;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Nick Heidfeld;BMW Sauber
+RESULT;4;Fernando Alonso;McLaren
+RESULT;5;Robert Kubica;BMW Sauber
+RESULT;6;Ralf Schumacher;Toyota
+RESULT;7;Nico Rosberg;Williams
+RESULT;8;Heikki Kovalainen;Renault
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Jarno Trulli;Toyota
+RESULT;11;David Coulthard;Red Bull
+RESULT;12;Giancarlo Fisichella;Renault
+RESULT;13;Felipe Massa;Ferrari
+RESULT;14;Alexander Wurz;Williams
+RESULT;15;Takuma Sato;Super Aguri
+RESULT;16;Sebastian Vettel;Toro Rosso
+RESULT;17;Adrian Sutil;Spyker
+RESULT;18;Rubens Barrichello;Honda
+RESULT;19;Vitantonio Liuzzi;Toro Rosso
+RESULT;20;Anthony Davidson;Super Aguri
+RESULT;21;Jenson Button;Honda
+RESULT;22;Sakon Yamamoto;Spyker
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2007;Turkish Grand Prix;12;1
+RESULT;1;Felipe Massa;Ferrari
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Fernando Alonso;McLaren
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Lewis Hamilton;McLaren
+RESULT;6;Heikki Kovalainen;Renault
+RESULT;7;Nico Rosberg;Williams
+RESULT;8;Robert Kubica;BMW Sauber
+RESULT;9;Giancarlo Fisichella;Renault
+RESULT;10;David Coulthard;Red Bull
+RESULT;11;Alexander Wurz;Williams
+RESULT;12;Ralf Schumacher;Toyota
+RESULT;13;Jenson Button;Honda
+RESULT;14;Anthony Davidson;Super Aguri
+RESULT;15;Vitantonio Liuzzi;Toro Rosso
+RESULT;16;Jarno Trulli;Toyota
+RESULT;17;Rubens Barrichello;Honda
+RESULT;18;Takuma Sato;Super Aguri
+RESULT;19;Sebastian Vettel;Toro Rosso
+RESULT;20;Sakon Yamamoto;Spyker
+RESULT;21;Adrian Sutil;Spyker
+RESULT;22;Mark Webber;Red Bull
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2007;Italian Grand Prix;13;1
+RESULT;1;Fernando Alonso;McLaren
+RESULT;2;Lewis Hamilton;McLaren
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Nick Heidfeld;BMW Sauber
+RESULT;5;Robert Kubica;BMW Sauber
+RESULT;6;Nico Rosberg;Williams
+RESULT;7;Heikki Kovalainen;Renault
+RESULT;8;Jenson Button;Honda
+RESULT;9;Mark Webber;Red Bull
+RESULT;10;Rubens Barrichello;Honda
+RESULT;11;Jarno Trulli;Toyota
+RESULT;12;Giancarlo Fisichella;Renault
+RESULT;13;Alexander Wurz;Williams
+RESULT;14;Anthony Davidson;Super Aguri
+RESULT;15;Ralf Schumacher;Toyota
+RESULT;16;Takuma Sato;Super Aguri
+RESULT;17;Vitantonio Liuzzi;Toro Rosso
+RESULT;18;Sebastian Vettel;Toro Rosso
+RESULT;19;Adrian Sutil;Spyker
+RESULT;20;Sakon Yamamoto;Spyker
+RESULT;21;Felipe Massa;Ferrari
+RESULT;22;David Coulthard;Red Bull
+FASTEST;Fernando Alonso;McLaren
+FINISH
+RACE;2007;Belgian Grand Prix;14;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Fernando Alonso;McLaren
+RESULT;4;Lewis Hamilton;McLaren
+RESULT;5;Nick Heidfeld;BMW Sauber
+RESULT;6;Nico Rosberg;Williams
+RESULT;7;Mark Webber;Red Bull
+RESULT;8;Heikki Kovalainen;Renault
+RESULT;9;Robert Kubica;BMW Sauber
+RESULT;10;Ralf Schumacher;Toyota
+RESULT;11;Jarno Trulli;Toyota
+RESULT;12;Vitantonio Liuzzi;Toro Rosso
+RESULT;13;Rubens Barrichello;Honda
+RESULT;14;Adrian Sutil;Spyker
+RESULT;15;Takuma Sato;Super Aguri
+RESULT;16;Anthony Davidson;Super Aguri
+RESULT;17;Sakon Yamamoto;Spyker
+RESULT;18;Jenson Button;Honda
+RESULT;19;Alexander Wurz;Williams
+RESULT;20;David Coulthard;Red Bull
+RESULT;21;Sebastian Vettel;Toro Rosso
+RESULT;22;Giancarlo Fisichella;Renault
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Japanese Grand Prix;15;1
+RESULT;1;Lewis Hamilton;McLaren
+RESULT;2;Heikki Kovalainen;Renault
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;David Coulthard;Red Bull
+RESULT;5;Giancarlo Fisichella;Renault
+RESULT;6;Felipe Massa;Ferrari
+RESULT;7;Robert Kubica;BMW Sauber
+RESULT;8;Adrian Sutil;Spyker
+RESULT;9;Vitantonio Liuzzi;Toro Rosso
+RESULT;10;Rubens Barrichello;Honda
+RESULT;11;Jenson Button;Honda
+RESULT;12;Sakon Yamamoto;Spyker
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Nick Heidfeld;BMW Sauber
+RESULT;15;Takuma Sato;Super Aguri
+RESULT;16;Ralf Schumacher;Toyota
+RESULT;17;Anthony Davidson;Super Aguri
+RESULT;18;Nico Rosberg;Williams
+RESULT;19;Sebastian Vettel;Toro Rosso
+RESULT;20;Mark Webber;Red Bull
+RESULT;21;Fernando Alonso;McLaren
+RESULT;22;Alexander Wurz;Williams
+FASTEST;Lewis Hamilton;McLaren
+FINISH
+RACE;2007;Chinese Grand Prix;16;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Fernando Alonso;McLaren
+RESULT;3;Felipe Massa;Ferrari
+RESULT;4;Sebastian Vettel;Toro Rosso
+RESULT;5;Jenson Button;Honda
+RESULT;6;Vitantonio Liuzzi;Toro Rosso
+RESULT;7;Nick Heidfeld;BMW Sauber
+RESULT;8;David Coulthard;Red Bull
+RESULT;9;Heikki Kovalainen;Renault
+RESULT;10;Mark Webber;Red Bull
+RESULT;11;Giancarlo Fisichella;Renault
+RESULT;12;Alexander Wurz;Williams
+RESULT;13;Jarno Trulli;Toyota
+RESULT;14;Takuma Sato;Super Aguri
+RESULT;15;Rubens Barrichello;Honda
+RESULT;16;Nico Rosberg;Williams
+RESULT;17;Sakon Yamamoto;Spyker
+RESULT;18;Robert Kubica;BMW Sauber
+RESULT;19;Lewis Hamilton;McLaren
+RESULT;20;Ralf Schumacher;Toyota
+RESULT;21;Adrian Sutil;Spyker
+RESULT;22;Anthony Davidson;Super Aguri
+FASTEST;Felipe Massa;Ferrari
+FINISH
+RACE;2007;Brazilian Grand Prix;17;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Felipe Massa;Ferrari
+RESULT;3;Fernando Alonso;McLaren
+RESULT;4;Nico Rosberg;Williams
+RESULT;5;Robert Kubica;BMW Sauber
+RESULT;6;Nick Heidfeld;BMW Sauber
+RESULT;7;Lewis Hamilton;McLaren
+RESULT;8;Jarno Trulli;Toyota
+RESULT;9;David Coulthard;Red Bull
+RESULT;10;Kazuki Nakajima;Williams
+RESULT;11;Ralf Schumacher;Toyota
+RESULT;12;Takuma Sato;Super Aguri
+RESULT;13;Vitantonio Liuzzi;Toro Rosso
+RESULT;14;Anthony Davidson;Super Aguri
+RESULT;15;Adrian Sutil;Spyker
+RESULT;16;Rubens Barrichello;Honda
+RESULT;17;Heikki Kovalainen;Renault
+RESULT;18;Sebastian Vettel;Toro Rosso
+RESULT;19;Jenson Button;Honda
+RESULT;20;Mark Webber;Red Bull
+RESULT;21;Sakon Yamamoto;Spyker
+RESULT;22;Giancarlo Fisichella;Renault
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2018;Australian Grand Prix;1;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Fernando Alonso;McLaren
+RESULT;6;Max Verstappen;Red Bull
+RESULT;7;Nico Hülkenberg;Renault
+RESULT;8;Valtteri Bottas;Mercedes
+RESULT;9;Stoffel Vandoorne;McLaren
+RESULT;10;Carlos Sainz;Renault
+RESULT;11;Sergio Pérez;Force India
+RESULT;12;Esteban Ocon;Force India
+RESULT;13;Charles Leclerc;Sauber
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Brendon Hartley;Toro Rosso
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Pierre Gasly;Toro Rosso
+RESULT;19;Marcus Ericsson;Sauber
+RESULT;20;Sergey Sirotkin;Williams
+FASTEST;Daniel Ricciardo;Red Bull
+FINISH
+RACE;2018;Bahrain Grand Prix;2;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Lewis Hamilton;Mercedes
+RESULT;4;Pierre Gasly;Toro Rosso
+RESULT;5;Kevin Magnussen;Haas F1 Team
+RESULT;6;Nico Hülkenberg;Renault
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Stoffel Vandoorne;McLaren
+RESULT;9;Marcus Ericsson;Sauber
+RESULT;10;Esteban Ocon;Force India
+RESULT;11;Carlos Sainz;Renault
+RESULT;12;Charles Leclerc;Sauber
+RESULT;13;Romain Grosjean;Haas F1 Team
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Sergey Sirotkin;Williams
+RESULT;16;Sergio Pérez;Force India
+RESULT;17;Brendon Hartley;Toro Rosso
+RESULT;18;Kimi Räikkönen;Ferrari
+RESULT;19;Max Verstappen;Red Bull
+RESULT;20;Daniel Ricciardo;Red Bull
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Chinese Grand Prix;3;1
+RESULT;1;Daniel Ricciardo;Red Bull
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Lewis Hamilton;Mercedes
+RESULT;5;Max Verstappen;Red Bull
+RESULT;6;Nico Hülkenberg;Renault
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Sebastian Vettel;Ferrari
+RESULT;9;Carlos Sainz;Renault
+RESULT;10;Kevin Magnussen;Haas F1 Team
+RESULT;11;Esteban Ocon;Force India
+RESULT;12;Sergio Pérez;Force India
+RESULT;13;Stoffel Vandoorne;McLaren
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Sergey Sirotkin;Williams
+RESULT;16;Marcus Ericsson;Sauber
+RESULT;17;Romain Grosjean;Haas F1 Team
+RESULT;18;Pierre Gasly;Toro Rosso
+RESULT;19;Charles Leclerc;Sauber
+RESULT;20;Brendon Hartley;Toro Rosso
+FASTEST;Daniel Ricciardo;Red Bull
+FINISH
+RACE;2018;Azerbaijan Grand Prix;4;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Sergio Pérez;Force India
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Carlos Sainz;Renault
+RESULT;6;Charles Leclerc;Sauber
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Lance Stroll;Williams
+RESULT;9;Stoffel Vandoorne;McLaren
+RESULT;10;Brendon Hartley;Toro Rosso
+RESULT;11;Marcus Ericsson;Sauber
+RESULT;12;Pierre Gasly;Toro Rosso
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Valtteri Bottas;Mercedes
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Max Verstappen;Red Bull
+RESULT;17;Daniel Ricciardo;Red Bull
+RESULT;18;Nico Hülkenberg;Renault
+RESULT;19;Esteban Ocon;Force India
+RESULT;20;Sergey Sirotkin;Williams
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Spanish Grand Prix;5;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Daniel Ricciardo;Red Bull
+RESULT;6;Kevin Magnussen;Haas F1 Team
+RESULT;7;Carlos Sainz;Renault
+RESULT;8;Fernando Alonso;McLaren
+RESULT;9;Sergio Pérez;Force India
+RESULT;10;Charles Leclerc;Sauber
+RESULT;11;Lance Stroll;Williams
+RESULT;12;Brendon Hartley;Toro Rosso
+RESULT;13;Marcus Ericsson;Sauber
+RESULT;14;Sergey Sirotkin;Williams
+RESULT;15;Stoffel Vandoorne;McLaren
+RESULT;16;Esteban Ocon;Force India
+RESULT;17;Kimi Räikkönen;Ferrari
+RESULT;18;Romain Grosjean;Haas F1 Team
+RESULT;19;Pierre Gasly;Toro Rosso
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Daniel Ricciardo;Red Bull
+FINISH
+RACE;2018;Monaco Grand Prix;6;1
+RESULT;1;Daniel Ricciardo;Red Bull
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Lewis Hamilton;Mercedes
+RESULT;4;Kimi Räikkönen;Ferrari
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Esteban Ocon;Force India
+RESULT;7;Pierre Gasly;Toro Rosso
+RESULT;8;Nico Hülkenberg;Renault
+RESULT;9;Max Verstappen;Red Bull
+RESULT;10;Carlos Sainz;Renault
+RESULT;11;Marcus Ericsson;Sauber
+RESULT;12;Sergio Pérez;Force India
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Stoffel Vandoorne;McLaren
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Sergey Sirotkin;Williams
+RESULT;17;Lance Stroll;Williams
+RESULT;18;Charles Leclerc;Sauber
+RESULT;19;Brendon Hartley;Toro Rosso
+RESULT;20;Fernando Alonso;McLaren
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2018;Canadian Grand Prix;7;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Lewis Hamilton;Mercedes
+RESULT;6;Kimi Räikkönen;Ferrari
+RESULT;7;Nico Hülkenberg;Renault
+RESULT;8;Carlos Sainz;Renault
+RESULT;9;Esteban Ocon;Force India
+RESULT;10;Charles Leclerc;Sauber
+RESULT;11;Pierre Gasly;Toro Rosso
+RESULT;12;Romain Grosjean;Haas F1 Team
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Sergio Pérez;Force India
+RESULT;15;Marcus Ericsson;Sauber
+RESULT;16;Stoffel Vandoorne;McLaren
+RESULT;17;Sergey Sirotkin;Williams
+RESULT;18;Fernando Alonso;McLaren
+RESULT;19;Brendon Hartley;Toro Rosso
+RESULT;20;Lance Stroll;Williams
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2018;French Grand Prix;8;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Sebastian Vettel;Ferrari
+RESULT;6;Kevin Magnussen;Haas F1 Team
+RESULT;7;Valtteri Bottas;Mercedes
+RESULT;8;Carlos Sainz;Renault
+RESULT;9;Nico Hülkenberg;Renault
+RESULT;10;Charles Leclerc;Sauber
+RESULT;11;Romain Grosjean;Haas F1 Team
+RESULT;12;Stoffel Vandoorne;McLaren
+RESULT;13;Marcus Ericsson;Sauber
+RESULT;14;Brendon Hartley;Toro Rosso
+RESULT;15;Sergey Sirotkin;Williams
+RESULT;16;Fernando Alonso;McLaren
+RESULT;17;Lance Stroll;Williams
+RESULT;18;Sergio Pérez;Force India
+RESULT;19;Esteban Ocon;Force India
+RESULT;20;Pierre Gasly;Toro Rosso
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Austrian Grand Prix;9;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Romain Grosjean;Haas F1 Team
+RESULT;5;Kevin Magnussen;Haas F1 Team
+RESULT;6;Esteban Ocon;Force India
+RESULT;7;Sergio Pérez;Force India
+RESULT;8;Fernando Alonso;McLaren
+RESULT;9;Charles Leclerc;Sauber
+RESULT;10;Marcus Ericsson;Sauber
+RESULT;11;Pierre Gasly;Toro Rosso
+RESULT;12;Carlos Sainz;Renault
+RESULT;13;Sergey Sirotkin;Williams
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Stoffel Vandoorne;McLaren
+RESULT;16;Lewis Hamilton;Mercedes
+RESULT;17;Brendon Hartley;Toro Rosso
+RESULT;18;Daniel Ricciardo;Red Bull
+RESULT;19;Valtteri Bottas;Mercedes
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Kimi Räikkönen;Ferrari
+FINISH
+RACE;2018;British Grand Prix;10;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Valtteri Bottas;Mercedes
+RESULT;5;Daniel Ricciardo;Red Bull
+RESULT;6;Nico Hülkenberg;Renault
+RESULT;7;Esteban Ocon;Force India
+RESULT;8;Fernando Alonso;McLaren
+RESULT;9;Kevin Magnussen;Haas F1 Team
+RESULT;10;Sergio Pérez;Force India
+RESULT;11;Stoffel Vandoorne;McLaren
+RESULT;12;Lance Stroll;Williams
+RESULT;13;Pierre Gasly;Toro Rosso
+RESULT;14;Sergey Sirotkin;Williams
+RESULT;20;Brendon Hartley;Toro Rosso
+RESULT;15;Max Verstappen;Red Bull
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Carlos Sainz;Renault
+RESULT;18;Marcus Ericsson;Sauber
+RESULT;19;Charles Leclerc;Sauber
+FASTEST;Sebastian Vettel;Ferrari
+FINISH
+RACE;2018;German Grand Prix;11;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Nico Hülkenberg;Renault
+RESULT;6;Romain Grosjean;Haas F1 Team
+RESULT;7;Sergio Pérez;Force India
+RESULT;8;Esteban Ocon;Force India
+RESULT;9;Marcus Ericsson;Sauber
+RESULT;10;Brendon Hartley;Toro Rosso
+RESULT;11;Kevin Magnussen;Haas F1 Team
+RESULT;12;Carlos Sainz;Renault
+RESULT;13;Stoffel Vandoorne;McLaren
+RESULT;14;Pierre Gasly;Toro Rosso
+RESULT;15;Charles Leclerc;Sauber
+RESULT;16;Fernando Alonso;McLaren
+RESULT;17;Lance Stroll;Williams
+RESULT;18;Sebastian Vettel;Ferrari
+RESULT;19;Sergey Sirotkin;Williams
+RESULT;20;Daniel Ricciardo;Red Bull
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2018;Hungarian Grand Prix;12;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Pierre Gasly;Toro Rosso
+RESULT;7;Kevin Magnussen;Haas F1 Team
+RESULT;8;Fernando Alonso;McLaren
+RESULT;9;Carlos Sainz;Renault
+RESULT;10;Romain Grosjean;Haas F1 Team
+RESULT;11;Brendon Hartley;Toro Rosso
+RESULT;12;Nico Hülkenberg;Renault
+RESULT;13;Esteban Ocon;Force India
+RESULT;14;Sergio Pérez;Force India
+RESULT;15;Marcus Ericsson;Sauber
+RESULT;16;Sergey Sirotkin;Williams
+RESULT;17;Lance Stroll;Williams
+RESULT;18;Stoffel Vandoorne;McLaren
+RESULT;19;Max Verstappen;Red Bull
+RESULT;20;Charles Leclerc;Sauber
+FASTEST;Daniel Ricciardo;Red Bull
+FINISH
+RACE;2018;Belgian Grand Prix;13;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Valtteri Bottas;Mercedes
+RESULT;5;Sergio Pérez;Force India
+RESULT;6;Esteban Ocon;Force India
+RESULT;7;Romain Grosjean;Haas F1 Team
+RESULT;8;Kevin Magnussen;Haas F1 Team
+RESULT;9;Pierre Gasly;Toro Rosso
+RESULT;10;Marcus Ericsson;Sauber
+RESULT;11;Carlos Sainz;Renault
+RESULT;12;Sergey Sirotkin;Williams
+RESULT;13;Lance Stroll;Williams
+RESULT;14;Brendon Hartley;Toro Rosso
+RESULT;15;Stoffel Vandoorne;McLaren
+RESULT;16;Daniel Ricciardo;Red Bull
+RESULT;17;Kimi Räikkönen;Ferrari
+RESULT;18;Charles Leclerc;Sauber
+RESULT;19;Fernando Alonso;McLaren
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Italian Grand Prix;14;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Kimi Räikkönen;Ferrari
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Max Verstappen;Red Bull
+RESULT;6;Esteban Ocon;Force India
+RESULT;7;Sergio Pérez;Force India
+RESULT;8;Carlos Sainz;Renault
+RESULT;9;Lance Stroll;Williams
+RESULT;10;Sergey Sirotkin;Williams
+RESULT;11;Charles Leclerc;Sauber
+RESULT;12;Stoffel Vandoorne;McLaren
+RESULT;13;Nico Hülkenberg;Renault
+RESULT;14;Pierre Gasly;Toro Rosso
+RESULT;15;Marcus Ericsson;Sauber
+RESULT;16;Kevin Magnussen;Haas F1 Team
+RESULT;17;Daniel Ricciardo;Red Bull
+RESULT;18;Fernando Alonso;McLaren
+RESULT;19;Brendon Hartley;Toro Rosso
+RESULT;20;Romain Grosjean;Haas F1 Team
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2018;Singapore Grand Prix;15;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Valtteri Bottas;Mercedes
+RESULT;5;Kimi Räikkönen;Ferrari
+RESULT;6;Daniel Ricciardo;Red Bull
+RESULT;7;Fernando Alonso;McLaren
+RESULT;8;Carlos Sainz;Renault
+RESULT;9;Charles Leclerc;Sauber
+RESULT;10;Nico Hülkenberg;Renault
+RESULT;11;Marcus Ericsson;Sauber
+RESULT;12;Stoffel Vandoorne;McLaren
+RESULT;13;Pierre Gasly;Toro Rosso
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Sergio Pérez;Force India
+RESULT;17;Brendon Hartley;Toro Rosso
+RESULT;18;Kevin Magnussen;Haas F1 Team
+RESULT;19;Sergey Sirotkin;Williams
+RESULT;20;Esteban Ocon;Force India
+FASTEST;Kevin Magnussen;Haas F1 Team
+FINISH
+RACE;2018;Russian Grand Prix;16;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Kimi Räikkönen;Ferrari
+RESULT;5;Max Verstappen;Red Bull
+RESULT;6;Daniel Ricciardo;Red Bull
+RESULT;7;Charles Leclerc;Sauber
+RESULT;8;Kevin Magnussen;Haas F1 Team
+RESULT;9;Esteban Ocon;Force India
+RESULT;10;Sergio Pérez;Force India
+RESULT;11;Romain Grosjean;Haas F1 Team
+RESULT;12;Nico Hülkenberg;Renault
+RESULT;13;Marcus Ericsson;Sauber
+RESULT;14;Fernando Alonso;McLaren
+RESULT;15;Lance Stroll;Williams
+RESULT;16;Stoffel Vandoorne;McLaren
+RESULT;17;Carlos Sainz;Renault
+RESULT;18;Sergey Sirotkin;Williams
+RESULT;19;Pierre Gasly;Toro Rosso
+RESULT;20;Brendon Hartley;Toro Rosso
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Japanese Grand Prix;17;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Kimi Räikkönen;Ferrari
+RESULT;6;Sebastian Vettel;Ferrari
+RESULT;7;Sergio Pérez;Force India
+RESULT;8;Romain Grosjean;Haas F1 Team
+RESULT;9;Esteban Ocon;Force India
+RESULT;10;Carlos Sainz;Renault
+RESULT;11;Pierre Gasly;Toro Rosso
+RESULT;12;Marcus Ericsson;Sauber
+RESULT;13;Brendon Hartley;Toro Rosso
+RESULT;14;Fernando Alonso;McLaren
+RESULT;15;Stoffel Vandoorne;McLaren
+RESULT;16;Sergey Sirotkin;Williams
+RESULT;17;Lance Stroll;Williams
+RESULT;18;Charles Leclerc;Sauber
+RESULT;19;Nico Hülkenberg;Renault
+RESULT;20;Kevin Magnussen;Haas F1 Team
+FASTEST;Sebastian Vettel;Ferrari
+FINISH
+RACE;2018;United States Grand Prix;18;1
+RESULT;1;Kimi Räikkönen;Ferrari
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Lewis Hamilton;Mercedes
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Nico Hülkenberg;Renault
+RESULT;7;Carlos Sainz;Renault
+RESULT;8;Sergio Pérez;Force India
+RESULT;9;Brendon Hartley;Toro Rosso
+RESULT;10;Marcus Ericsson;Sauber
+RESULT;11;Stoffel Vandoorne;McLaren
+RESULT;12;Pierre Gasly;Toro Rosso
+RESULT;13;Sergey Sirotkin;Williams
+RESULT;14;Lance Stroll;Williams
+RESULT;15;Charles Leclerc;Sauber
+RESULT;16;Daniel Ricciardo;Red Bull
+RESULT;17;Romain Grosjean;Haas F1 Team
+RESULT;18;Fernando Alonso;McLaren
+RESULT;19;Esteban Ocon;Force India
+RESULT;20;Kevin Magnussen;Haas F1 Team
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2018;Mexican Grand Prix;19;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Lewis Hamilton;Mercedes
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Nico Hülkenberg;Renault
+RESULT;7;Charles Leclerc;Sauber
+RESULT;8;Stoffel Vandoorne;McLaren
+RESULT;9;Marcus Ericsson;Sauber
+RESULT;10;Pierre Gasly;Toro Rosso
+RESULT;11;Esteban Ocon;Force India
+RESULT;12;Lance Stroll;Williams
+RESULT;13;Sergey Sirotkin;Williams
+RESULT;14;Brendon Hartley;Toro Rosso
+RESULT;15;Kevin Magnussen;Haas F1 Team
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Daniel Ricciardo;Red Bull
+RESULT;18;Sergio Pérez;Force India
+RESULT;19;Carlos Sainz;Renault
+RESULT;20;Fernando Alonso;McLaren
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Brazilian Grand Prix;20;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Kimi Räikkönen;Ferrari
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Sebastian Vettel;Ferrari
+RESULT;7;Charles Leclerc;Sauber
+RESULT;8;Romain Grosjean;Haas F1 Team
+RESULT;9;Kevin Magnussen;Haas F1 Team
+RESULT;10;Sergio Pérez;Force India
+RESULT;11;Brendon Hartley;Toro Rosso
+RESULT;12;Carlos Sainz;Renault
+RESULT;13;Pierre Gasly;Toro Rosso
+RESULT;14;Stoffel Vandoorne;McLaren
+RESULT;15;Esteban Ocon;Force India
+RESULT;16;Sergey Sirotkin;Williams
+RESULT;17;Fernando Alonso;McLaren
+RESULT;18;Lance Stroll;Williams
+RESULT;19;Nico Hülkenberg;Renault
+RESULT;20;Marcus Ericsson;Sauber
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2018;Abu Dhabi Grand Prix;21;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Daniel Ricciardo;Red Bull
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Carlos Sainz;Renault
+RESULT;7;Charles Leclerc;Sauber
+RESULT;8;Sergio Pérez;Force India
+RESULT;9;Romain Grosjean;Haas F1 Team
+RESULT;10;Kevin Magnussen;Haas F1 Team
+RESULT;11;Fernando Alonso;McLaren
+RESULT;12;Brendon Hartley;Toro Rosso
+RESULT;13;Lance Stroll;Williams
+RESULT;14;Stoffel Vandoorne;McLaren
+RESULT;15;Sergey Sirotkin;Williams
+RESULT;16;Pierre Gasly;Toro Rosso
+RESULT;17;Esteban Ocon;Force India
+RESULT;18;Marcus Ericsson;Sauber
+RESULT;19;Kimi Räikkönen;Ferrari
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Sebastian Vettel;Ferrari
+FINISH
+RACE;2019;Australian Grand Prix;1;1
+RESULT;1;Valtteri Bottas;Mercedes
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Charles Leclerc;Ferrari
+RESULT;6;Kevin Magnussen;Haas F1 Team
+RESULT;7;Nico Hülkenberg;Renault
+RESULT;8;Kimi Räikkönen;Alfa Romeo
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Daniil Kvyat;Toro Rosso
+RESULT;11;Pierre Gasly;Red Bull
+RESULT;12;Lando Norris;McLaren
+RESULT;13;Sergio Pérez;Racing Point
+RESULT;14;Alexander Albon;Toro Rosso
+RESULT;15;Antonio Giovinazzi;Alfa Romeo
+RESULT;16;George Russell;Williams
+RESULT;17;Robert Kubica;Williams
+RESULT;18;Romain Grosjean;Haas F1 Team
+RESULT;19;Daniel Ricciardo;Renault
+RESULT;20;Carlos Sainz;McLaren
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2019;Bahrain Grand Prix;2;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Sebastian Vettel;Ferrari
+RESULT;6;Lando Norris;McLaren
+RESULT;7;Kimi Räikkönen;Alfa Romeo
+RESULT;8;Pierre Gasly;Red Bull
+RESULT;9;Alexander Albon;Toro Rosso
+RESULT;10;Sergio Pérez;Racing Point
+RESULT;11;Antonio Giovinazzi;Alfa Romeo
+RESULT;12;Daniil Kvyat;Toro Rosso
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Lance Stroll;Racing Point
+RESULT;15;George Russell;Williams
+RESULT;16;Robert Kubica;Williams
+RESULT;17;Nico Hülkenberg;Renault
+RESULT;18;Daniel Ricciardo;Renault
+RESULT;19;Carlos Sainz;McLaren
+RESULT;20;Romain Grosjean;Haas F1 Team
+FASTEST;Charles Leclerc;Ferrari
+FINISH
+RACE;2019;Chinese Grand Prix;3;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Charles Leclerc;Ferrari
+RESULT;6;Pierre Gasly;Red Bull
+RESULT;7;Daniel Ricciardo;Renault
+RESULT;8;Sergio Pérez;Racing Point
+RESULT;9;Kimi Räikkönen;Alfa Romeo
+RESULT;10;Alexander Albon;Toro Rosso
+RESULT;11;Romain Grosjean;Haas F1 Team
+RESULT;12;Lance Stroll;Racing Point
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Carlos Sainz;McLaren
+RESULT;15;Antonio Giovinazzi;Alfa Romeo
+RESULT;16;George Russell;Williams
+RESULT;17;Robert Kubica;Williams
+RESULT;18;Lando Norris;McLaren
+RESULT;19;Daniil Kvyat;Toro Rosso
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Pierre Gasly;Red Bull
+FINISH
+RACE;2019;Azerbaijan Grand Prix;4;1
+RESULT;1;Valtteri Bottas;Mercedes
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Charles Leclerc;Ferrari
+RESULT;6;Sergio Pérez;Racing Point
+RESULT;7;Carlos Sainz;McLaren
+RESULT;8;Lando Norris;McLaren
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Kimi Räikkönen;Alfa Romeo
+RESULT;11;Alexander Albon;Toro Rosso
+RESULT;12;Antonio Giovinazzi;Alfa Romeo
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Nico Hülkenberg;Renault
+RESULT;15;George Russell;Williams
+RESULT;16;Robert Kubica;Williams
+RESULT;17;Pierre Gasly;Red Bull
+RESULT;18;Romain Grosjean;Haas F1 Team
+RESULT;19;Daniil Kvyat;Toro Rosso
+RESULT;20;Daniel Ricciardo;Renault
+FASTEST;Charles Leclerc;Ferrari
+FINISH
+RACE;2019;Spanish Grand Prix;5;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Charles Leclerc;Ferrari
+RESULT;6;Pierre Gasly;Red Bull
+RESULT;7;Kevin Magnussen;Haas F1 Team
+RESULT;8;Carlos Sainz;McLaren
+RESULT;9;Daniil Kvyat;Toro Rosso
+RESULT;10;Romain Grosjean;Haas F1 Team
+RESULT;11;Alexander Albon;Toro Rosso
+RESULT;12;Daniel Ricciardo;Renault
+RESULT;13;Nico Hülkenberg;Renault
+RESULT;14;Kimi Räikkönen;Alfa Romeo
+RESULT;15;Sergio Pérez;Racing Point
+RESULT;16;Antonio Giovinazzi;Alfa Romeo
+RESULT;17;George Russell;Williams
+RESULT;18;Robert Kubica;Williams
+RESULT;19;Lance Stroll;Racing Point
+RESULT;20;Lando Norris;McLaren
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2019;Monaco Grand Prix;6;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Pierre Gasly;Red Bull
+RESULT;6;Carlos Sainz;McLaren
+RESULT;7;Daniil Kvyat;Toro Rosso
+RESULT;8;Alexander Albon;Toro Rosso
+RESULT;9;Daniel Ricciardo;Renault
+RESULT;10;Romain Grosjean;Haas F1 Team
+RESULT;11;Lando Norris;McLaren
+RESULT;12;Kevin Magnussen;Haas F1 Team
+RESULT;13;Sergio Pérez;Racing Point
+RESULT;14;Nico Hülkenberg;Renault
+RESULT;15;George Russell;Williams
+RESULT;16;Lance Stroll;Racing Point
+RESULT;17;Kimi Räikkönen;Alfa Romeo
+RESULT;18;Robert Kubica;Williams
+RESULT;19;Antonio Giovinazzi;Alfa Romeo
+RESULT;20;Charles Leclerc;Ferrari
+FASTEST;Pierre Gasly;Red Bull
+FINISH
+RACE;2019;Canadian Grand Prix;7;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Valtteri Bottas;Mercedes
+RESULT;5;Max Verstappen;Red Bull
+RESULT;6;Daniel Ricciardo;Renault
+RESULT;7;Nico Hülkenberg;Renault
+RESULT;8;Pierre Gasly;Red Bull
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Daniil Kvyat;Toro Rosso
+RESULT;11;Carlos Sainz;McLaren
+RESULT;12;Sergio Pérez;Racing Point
+RESULT;13;Antonio Giovinazzi;Alfa Romeo
+RESULT;14;Romain Grosjean;Haas F1 Team
+RESULT;15;Kimi Räikkönen;Alfa Romeo
+RESULT;16;George Russell;Williams
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Robert Kubica;Williams
+RESULT;19;Alexander Albon;Toro Rosso
+RESULT;20;Lando Norris;McLaren
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2019;French Grand Prix;8;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Sebastian Vettel;Ferrari
+RESULT;6;Carlos Sainz;McLaren
+RESULT;7;Kimi Räikkönen;Alfa Romeo
+RESULT;8;Nico Hülkenberg;Renault
+RESULT;9;Lando Norris;McLaren
+RESULT;10;Pierre Gasly;Red Bull
+RESULT;11;Daniel Ricciardo;Renault
+RESULT;12;Sergio Pérez;Racing Point
+RESULT;13;Lance Stroll;Racing Point
+RESULT;14;Daniil Kvyat;Toro Rosso
+RESULT;15;Alexander Albon;Toro Rosso
+RESULT;16;Antonio Giovinazzi;Alfa Romeo
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Robert Kubica;Williams
+RESULT;19;George Russell;Williams
+RESULT;20;Romain Grosjean;Haas F1 Team
+FASTEST;Sebastian Vettel;Ferrari
+FINISH
+RACE;2019;Austrian Grand Prix;9;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Charles Leclerc;Ferrari
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Lewis Hamilton;Mercedes
+RESULT;6;Lando Norris;McLaren
+RESULT;7;Pierre Gasly;Red Bull
+RESULT;8;Carlos Sainz;McLaren
+RESULT;9;Kimi Räikkönen;Alfa Romeo
+RESULT;10;Antonio Giovinazzi;Alfa Romeo
+RESULT;11;Sergio Pérez;Racing Point
+RESULT;12;Daniel Ricciardo;Renault
+RESULT;13;Nico Hülkenberg;Renault
+RESULT;14;Lance Stroll;Racing Point
+RESULT;15;Alexander Albon;Toro Rosso
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Daniil Kvyat;Toro Rosso
+RESULT;18;George Russell;Williams
+RESULT;19;Kevin Magnussen;Haas F1 Team
+RESULT;20;Robert Kubica;Williams
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2019;British Grand Prix;10;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Pierre Gasly;Red Bull
+RESULT;5;Max Verstappen;Red Bull
+RESULT;6;Carlos Sainz;McLaren
+RESULT;7;Daniel Ricciardo;Renault
+RESULT;8;Kimi Räikkönen;Alfa Romeo
+RESULT;9;Daniil Kvyat;Toro Rosso
+RESULT;10;Nico Hülkenberg;Renault
+RESULT;11;Lando Norris;McLaren
+RESULT;12;Alexander Albon;Toro Rosso
+RESULT;13;Lance Stroll;Racing Point
+RESULT;14;George Russell;Williams
+RESULT;15;Robert Kubica;Williams
+RESULT;16;Sebastian Vettel;Ferrari
+RESULT;17;Sergio Pérez;Racing Point
+RESULT;18;Antonio Giovinazzi;Alfa Romeo
+RESULT;19;Romain Grosjean;Haas F1 Team
+RESULT;20;Kevin Magnussen;Haas F1 Team
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2019;German Grand Prix;11;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Daniil Kvyat;Toro Rosso
+RESULT;4;Lance Stroll;Racing Point
+RESULT;5;Carlos Sainz;McLaren
+RESULT;6;Alexander Albon;Toro Rosso
+RESULT;7;Romain Grosjean;Haas F1 Team
+RESULT;8;Kevin Magnussen;Haas F1 Team
+RESULT;9;Lewis Hamilton;Mercedes
+RESULT;10;Robert Kubica;Williams
+RESULT;11;George Russell;Williams
+RESULT;12;Kimi Räikkönen;Alfa Romeo
+RESULT;13;Antonio Giovinazzi;Alfa Romeo
+RESULT;14;Pierre Gasly;Red Bull
+RESULT;15;Valtteri Bottas;Mercedes
+RESULT;16;Nico Hülkenberg;Renault
+RESULT;17;Charles Leclerc;Ferrari
+RESULT;18;Lando Norris;McLaren
+RESULT;19;Daniel Ricciardo;Renault
+RESULT;20;Sergio Pérez;Racing Point
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2019;Hungarian Grand Prix;12;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Sebastian Vettel;Ferrari
+RESULT;4;Charles Leclerc;Ferrari
+RESULT;5;Carlos Sainz;McLaren
+RESULT;6;Pierre Gasly;Red Bull
+RESULT;7;Kimi Räikkönen;Alfa Romeo
+RESULT;8;Valtteri Bottas;Mercedes
+RESULT;9;Lando Norris;McLaren
+RESULT;10;Alexander Albon;Toro Rosso
+RESULT;11;Sergio Pérez;Racing Point
+RESULT;12;Nico Hülkenberg;Renault
+RESULT;13;Kevin Magnussen;Haas F1 Team
+RESULT;14;Daniel Ricciardo;Renault
+RESULT;15;Daniil Kvyat;Toro Rosso
+RESULT;16;George Russell;Williams
+RESULT;17;Lance Stroll;Racing Point
+RESULT;18;Antonio Giovinazzi;Alfa Romeo
+RESULT;19;Robert Kubica;Williams
+RESULT;20;Romain Grosjean;Haas F1 Team
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2019;Belgian Grand Prix;13;1
+RESULT;1;Charles Leclerc;Ferrari
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Sebastian Vettel;Ferrari
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Sergio Pérez;Racing Point
+RESULT;7;Daniil Kvyat;Toro Rosso
+RESULT;8;Nico Hülkenberg;Renault
+RESULT;9;Pierre Gasly;Toro Rosso
+RESULT;10;Lance Stroll;Racing Point
+RESULT;11;Lando Norris;McLaren
+RESULT;12;Kevin Magnussen;Haas F1 Team
+RESULT;13;Romain Grosjean;Haas F1 Team
+RESULT;14;Daniel Ricciardo;Renault
+RESULT;15;George Russell;Williams
+RESULT;16;Kimi Räikkönen;Alfa Romeo
+RESULT;17;Robert Kubica;Williams
+RESULT;18;Antonio Giovinazzi;Alfa Romeo
+RESULT;19;Carlos Sainz;McLaren
+RESULT;20;Max Verstappen;Red Bull
+FASTEST;Sebastian Vettel;Ferrari
+FINISH
+RACE;2019;Italian Grand Prix;14;1
+RESULT;1;Charles Leclerc;Ferrari
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Lewis Hamilton;Mercedes
+RESULT;4;Daniel Ricciardo;Renault
+RESULT;5;Nico Hülkenberg;Renault
+RESULT;6;Alexander Albon;Red Bull
+RESULT;7;Sergio Pérez;Racing Point
+RESULT;8;Max Verstappen;Red Bull
+RESULT;9;Antonio Giovinazzi;Alfa Romeo
+RESULT;10;Lando Norris;McLaren
+RESULT;11;Pierre Gasly;Toro Rosso
+RESULT;12;Lance Stroll;Racing Point
+RESULT;13;Sebastian Vettel;Ferrari
+RESULT;14;George Russell;Williams
+RESULT;15;Kimi Räikkönen;Alfa Romeo
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Robert Kubica;Williams
+RESULT;18;Kevin Magnussen;Haas F1 Team
+RESULT;19;Daniil Kvyat;Toro Rosso
+RESULT;20;Carlos Sainz;McLaren
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2019;Singapore Grand Prix;15;1
+RESULT;1;Sebastian Vettel;Ferrari
+RESULT;2;Charles Leclerc;Ferrari
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Lewis Hamilton;Mercedes
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Alexander Albon;Red Bull
+RESULT;7;Lando Norris;McLaren
+RESULT;8;Pierre Gasly;Toro Rosso
+RESULT;9;Nico Hülkenberg;Renault
+RESULT;10;Antonio Giovinazzi;Alfa Romeo
+RESULT;11;Romain Grosjean;Haas F1 Team
+RESULT;12;Carlos Sainz;McLaren
+RESULT;13;Lance Stroll;Racing Point
+RESULT;14;Daniel Ricciardo;Renault
+RESULT;15;Daniil Kvyat;Toro Rosso
+RESULT;16;Robert Kubica;Williams
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Kimi Räikkönen;Alfa Romeo
+RESULT;19;Sergio Pérez;Racing Point
+RESULT;20;George Russell;Williams
+FASTEST;Kevin Magnussen;Haas F1 Team
+FINISH
+RACE;2019;Russian Grand Prix;16;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Max Verstappen;Red Bull
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Carlos Sainz;McLaren
+RESULT;7;Sergio Pérez;Racing Point
+RESULT;8;Lando Norris;McLaren
+RESULT;9;Kevin Magnussen;Haas F1 Team
+RESULT;10;Nico Hülkenberg;Renault
+RESULT;11;Lance Stroll;Racing Point
+RESULT;12;Daniil Kvyat;Toro Rosso
+RESULT;13;Kimi Räikkönen;Alfa Romeo
+RESULT;14;Pierre Gasly;Toro Rosso
+RESULT;15;Antonio Giovinazzi;Alfa Romeo
+RESULT;16;Robert Kubica;Williams
+RESULT;17;George Russell;Williams
+RESULT;18;Sebastian Vettel;Ferrari
+RESULT;19;Daniel Ricciardo;Renault
+RESULT;20;Romain Grosjean;Haas F1 Team
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2019;Japanese Grand Prix;17;1
+RESULT;1;Valtteri Bottas;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Lewis Hamilton;Mercedes
+RESULT;4;Alexander Albon;Red Bull
+RESULT;5;Carlos Sainz;McLaren
+RESULT;6;Charles Leclerc;Ferrari
+RESULT;7;Pierre Gasly;Toro Rosso
+RESULT;8;Sergio Pérez;Racing Point
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Daniil Kvyat;Toro Rosso
+RESULT;11;Lando Norris;McLaren
+RESULT;12;Kimi Räikkönen;Alfa Romeo
+RESULT;13;Romain Grosjean;Haas F1 Team
+RESULT;14;Antonio Giovinazzi;Alfa Romeo
+RESULT;15;Kevin Magnussen;Haas F1 Team
+RESULT;16;George Russell;Williams
+RESULT;17;Robert Kubica;Williams
+RESULT;18;Max Verstappen;Red Bull
+RESULT;19;Daniel Ricciardo;Renault
+RESULT;20;Nico Hülkenberg;Renault
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2019;Mexican Grand Prix;18;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Sebastian Vettel;Ferrari
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Charles Leclerc;Ferrari
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Max Verstappen;Red Bull
+RESULT;7;Sergio Pérez;Racing Point
+RESULT;8;Daniel Ricciardo;Renault
+RESULT;9;Pierre Gasly;Toro Rosso
+RESULT;10;Nico Hülkenberg;Renault
+RESULT;11;Daniil Kvyat;Toro Rosso
+RESULT;12;Lance Stroll;Racing Point
+RESULT;13;Carlos Sainz;McLaren
+RESULT;14;Antonio Giovinazzi;Alfa Romeo
+RESULT;15;Kevin Magnussen;Haas F1 Team
+RESULT;16;George Russell;Williams
+RESULT;17;Romain Grosjean;Haas F1 Team
+RESULT;18;Robert Kubica;Williams
+RESULT;19;Kimi Räikkönen;Alfa Romeo
+RESULT;20;Lando Norris;McLaren
+FASTEST;Charles Leclerc;Ferrari
+FINISH
+RACE;2019;United States Grand Prix;19;1
+RESULT;1;Valtteri Bottas;Mercedes
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Charles Leclerc;Ferrari
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Daniel Ricciardo;Renault
+RESULT;7;Lando Norris;McLaren
+RESULT;8;Carlos Sainz;McLaren
+RESULT;9;Nico Hülkenberg;Renault
+RESULT;10;Sergio Pérez;Racing Point
+RESULT;11;Kimi Räikkönen;Alfa Romeo
+RESULT;12;Daniil Kvyat;Toro Rosso
+RESULT;13;Lance Stroll;Racing Point
+RESULT;14;Antonio Giovinazzi;Alfa Romeo
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Pierre Gasly;Toro Rosso
+RESULT;17;George Russell;Williams
+RESULT;18;Kevin Magnussen;Haas F1 Team
+RESULT;19;Robert Kubica;Williams
+RESULT;20;Sebastian Vettel;Ferrari
+FASTEST;Charles Leclerc;Ferrari
+FINISH
+RACE;2019;Brazilian Grand Prix;20;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Pierre Gasly;Toro Rosso
+RESULT;3;Carlos Sainz;McLaren
+RESULT;4;Kimi Räikkönen;Alfa Romeo
+RESULT;5;Antonio Giovinazzi;Alfa Romeo
+RESULT;6;Daniel Ricciardo;Renault
+RESULT;7;Lewis Hamilton;Mercedes
+RESULT;8;Lando Norris;McLaren
+RESULT;9;Sergio Pérez;Racing Point
+RESULT;10;Daniil Kvyat;Toro Rosso
+RESULT;11;Kevin Magnussen;Haas F1 Team
+RESULT;12;George Russell;Williams
+RESULT;13;Romain Grosjean;Haas F1 Team
+RESULT;14;Alexander Albon;Red Bull
+RESULT;15;Nico Hülkenberg;Renault
+RESULT;16;Robert Kubica;Williams
+RESULT;17;Sebastian Vettel;Ferrari
+RESULT;18;Charles Leclerc;Ferrari
+RESULT;19;Lance Stroll;Racing Point
+RESULT;20;Valtteri Bottas;Mercedes
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2019;Abu Dhabi Grand Prix;21;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Valtteri Bottas;Mercedes
+RESULT;5;Sebastian Vettel;Ferrari
+RESULT;6;Alexander Albon;Red Bull
+RESULT;7;Sergio Pérez;Racing Point
+RESULT;8;Lando Norris;McLaren
+RESULT;9;Daniil Kvyat;Toro Rosso
+RESULT;10;Carlos Sainz;McLaren
+RESULT;11;Daniel Ricciardo;Renault
+RESULT;12;Nico Hülkenberg;Renault
+RESULT;13;Kimi Räikkönen;Alfa Romeo
+RESULT;14;Kevin Magnussen;Haas F1 Team
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Antonio Giovinazzi;Alfa Romeo
+RESULT;17;George Russell;Williams
+RESULT;18;Pierre Gasly;Toro Rosso
+RESULT;19;Robert Kubica;Williams
+RESULT;20;Lance Stroll;Racing Point
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2020;Austrian Grand Prix;1;1
+RESULT;1;Valtteri Bottas;Mercedes
+RESULT;2;Charles Leclerc;Ferrari
+RESULT;3;Lando Norris;McLaren
+RESULT;4;Lewis Hamilton;Mercedes
+RESULT;5;Carlos Sainz;McLaren
+RESULT;6;Sergio Pérez;Racing Point
+RESULT;7;Pierre Gasly;AlphaTauri
+RESULT;8;Esteban Ocon;Renault
+RESULT;9;Antonio Giovinazzi;Alfa Romeo
+RESULT;10;Sebastian Vettel;Ferrari
+RESULT;11;Nicholas Latifi;Williams
+RESULT;12;Daniil Kvyat;AlphaTauri
+RESULT;13;Alexander Albon;Red Bull
+RESULT;14;Kimi Räikkönen;Alfa Romeo
+RESULT;15;George Russell;Williams
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Lance Stroll;Racing Point
+RESULT;19;Daniel Ricciardo;Renault
+RESULT;20;Max Verstappen;Red Bull
+FASTEST;Lando Norris;McLaren
+FINISH
+RACE;2020;Styrian Grand Prix;2;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Alexander Albon;Red Bull
+RESULT;5;Lando Norris;McLaren
+RESULT;6;Sergio Pérez;Racing Point
+RESULT;7;Lance Stroll;Racing Point
+RESULT;8;Daniel Ricciardo;Renault
+RESULT;9;Carlos Sainz;McLaren
+RESULT;10;Daniil Kvyat;AlphaTauri
+RESULT;11;Kimi Räikkönen;Alfa Romeo
+RESULT;12;Kevin Magnussen;Haas F1 Team
+RESULT;13;Romain Grosjean;Haas F1 Team
+RESULT;14;Antonio Giovinazzi;Alfa Romeo
+RESULT;15;Pierre Gasly;AlphaTauri
+RESULT;16;George Russell;Williams
+RESULT;17;Nicholas Latifi;Williams
+RESULT;18;Esteban Ocon;Renault
+RESULT;19;Charles Leclerc;Ferrari
+RESULT;20;Sebastian Vettel;Ferrari
+FASTEST;Carlos Sainz;McLaren
+FINISH
+RACE;2020;Hungarian Grand Prix;3;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Lance Stroll;Racing Point
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Sebastian Vettel;Ferrari
+RESULT;7;Sergio Pérez;Racing Point
+RESULT;8;Daniel Ricciardo;Renault
+RESULT;9;Carlos Sainz;McLaren
+RESULT;10;Kevin Magnussen;Haas F1 Team
+RESULT;11;Charles Leclerc;Ferrari
+RESULT;12;Daniil Kvyat;AlphaTauri
+RESULT;13;Lando Norris;McLaren
+RESULT;14;Esteban Ocon;Renault
+RESULT;15;Kimi Räikkönen;Alfa Romeo
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Antonio Giovinazzi;Alfa Romeo
+RESULT;18;George Russell;Williams
+RESULT;19;Nicholas Latifi;Williams
+RESULT;20;Pierre Gasly;AlphaTauri
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2020;British Grand Prix;4;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Charles Leclerc;Ferrari
+RESULT;4;Daniel Ricciardo;Renault
+RESULT;5;Lando Norris;McLaren
+RESULT;6;Esteban Ocon;Renault
+RESULT;7;Pierre Gasly;AlphaTauri
+RESULT;8;Alexander Albon;Red Bull
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Sebastian Vettel;Ferrari
+RESULT;11;Valtteri Bottas;Mercedes
+RESULT;12;George Russell;Williams
+RESULT;13;Carlos Sainz;McLaren
+RESULT;14;Antonio Giovinazzi;Alfa Romeo
+RESULT;15;Nicholas Latifi;Williams
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Kimi Räikkönen;Alfa Romeo
+RESULT;18;Daniil Kvyat;AlphaTauri
+RESULT;19;Kevin Magnussen;Haas F1 Team
+RESULT;20;Nico Hülkenberg;Racing Point
+FASTEST;Max Verstappen;Red Bull
+FINISH
+RACE;2020;70th Anniversary Grand Prix;5;1
+RESULT;1;Max Verstappen;Red Bull
+RESULT;2;Lewis Hamilton;Mercedes
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Charles Leclerc;Ferrari
+RESULT;5;Alexander Albon;Red Bull
+RESULT;6;Lance Stroll;Racing Point
+RESULT;7;Nico Hülkenberg;Racing Point
+RESULT;8;Esteban Ocon;Renault
+RESULT;9;Lando Norris;McLaren
+RESULT;10;Daniil Kvyat;AlphaTauri
+RESULT;11;Pierre Gasly;AlphaTauri
+RESULT;12;Sebastian Vettel;Ferrari
+RESULT;13;Carlos Sainz;McLaren
+RESULT;14;Daniel Ricciardo;Renault
+RESULT;15;Kimi Räikkönen;Alfa Romeo
+RESULT;16;Romain Grosjean;Haas F1 Team
+RESULT;17;Antonio Giovinazzi;Alfa Romeo
+RESULT;18;George Russell;Williams
+RESULT;19;Nicholas Latifi;Williams
+RESULT;20;Kevin Magnussen;Haas F1 Team
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+RACE;2020;Spanish Grand Prix;6;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Max Verstappen;Red Bull
+RESULT;3;Valtteri Bottas;Mercedes
+RESULT;4;Lance Stroll;Racing Point
+RESULT;5;Sergio Pérez;Racing Point
+RESULT;6;Carlos Sainz;McLaren
+RESULT;7;Sebastian Vettel;Ferrari
+RESULT;8;Alexander Albon;Red Bull
+RESULT;9;Pierre Gasly;AlphaTauri
+RESULT;10;Lando Norris;McLaren
+RESULT;11;Daniel Ricciardo;Renault
+RESULT;12;Daniil Kvyat;AlphaTauri
+RESULT;13;Esteban Ocon;Renault
+RESULT;14;Kimi Räikkönen;Alfa Romeo
+RESULT;15;Kevin Magnussen;Haas F1 Team
+RESULT;16;Antonio Giovinazzi;Alfa Romeo
+RESULT;17;George Russell;Williams
+RESULT;18;Nicholas Latifi;Williams
+RESULT;19;Romain Grosjean;Haas F1 Team
+RESULT;20;Charles Leclerc;Ferrari
+FASTEST;Valtteri Bottas;Mercedes
+FINISH
+RACE;2020;Belgian Grand Prix;7;1
+RESULT;1;Lewis Hamilton;Mercedes
+RESULT;2;Valtteri Bottas;Mercedes
+RESULT;3;Max Verstappen;Red Bull
+RESULT;4;Daniel Ricciardo;Renault
+RESULT;5;Esteban Ocon;Renault
+RESULT;6;Alexander Albon;Red Bull
+RESULT;7;Lando Norris;McLaren
+RESULT;8;Pierre Gasly;AlphaTauri
+RESULT;9;Lance Stroll;Racing Point
+RESULT;10;Sergio Pérez;Racing Point
+RESULT;11;Daniil Kvyat;AlphaTauri
+RESULT;12;Kimi Räikkönen;Alfa Romeo
+RESULT;13;Sebastian Vettel;Ferrari
+RESULT;14;Charles Leclerc;Ferrari
+RESULT;15;Romain Grosjean;Haas F1 Team
+RESULT;16;Nicholas Latifi;Williams
+RESULT;17;Kevin Magnussen;Haas F1 Team
+RESULT;18;Antonio Giovinazzi;Alfa Romeo
+RESULT;19;George Russell;Williams
+RESULT;20;Carlos Sainz;McLaren
+FASTEST;Daniel Ricciardo;Renault
+FINISH
+RACE;2020;Italian Grand Prix;8;1
+RESULT;1;Pierre Gasly;AlphaTauri
+RESULT;2;Carlos Sainz;McLaren
+RESULT;3;Lance Stroll;Racing Point
+RESULT;4;Lando Norris;McLaren
+RESULT;5;Valtteri Bottas;Mercedes
+RESULT;6;Daniel Ricciardo;Renault
+RESULT;7;Lewis Hamilton;Mercedes
+RESULT;8;Esteban Ocon;Renault
+RESULT;9;Daniil Kvyat;AlphaTauri
+RESULT;10;Sergio Pérez;Racing Point
+RESULT;11;Nicholas Latifi;Williams
+RESULT;12;Romain Grosjean;Haas F1 Team
+RESULT;13;Kimi Räikkönen;Alfa Romeo
+RESULT;14;George Russell;Williams
+RESULT;15;Alexander Albon;Red Bull
+RESULT;16;Antonio Giovinazzi;Alfa Romeo
+RESULT;17;Max Verstappen;Red Bull
+RESULT;18;Charles Leclerc;Ferrari
+RESULT;19;Kevin Magnussen;Haas F1 Team
+RESULT;20;Sebastian Vettel;Ferrari
+FASTEST;Lewis Hamilton;Mercedes
+FINISH
+
+QUERY;2009
+POINT;MODERN
+QUERY;1900
+QUERY;2018
+POINT;NEW
+QUERY;2020;8
+POINT;PRESENT
+
+EXIT
