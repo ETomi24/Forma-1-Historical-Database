@@ -8,6 +8,7 @@ public class QueryCommand extends Command {
         if (previousCommand.equals("POINT") || previousCommand.equals("FINISH")) {
             return true;
         }
+        System.out.print("You can't give QUERY Command because previous Command was " + previousCommand);
         return false;
     }
 

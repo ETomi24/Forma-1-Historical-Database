@@ -10,6 +10,7 @@ public class RaceCommand extends Command {
         if (previousCommand.equals("FINISH") || previousCommand.equals("POINT")) {
             return true;
         }
+        System.out.print("You can't give Race Command because previous Command was " + previousCommand);
         return false;
     }
 

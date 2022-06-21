@@ -1,5 +1,7 @@
 package Forma1.PointCalculationStrategy;
 
+import Forma1.Model.Year;
+
 public interface PointCalculationStrategy {
-    double calculate();
+    void calculate(Year year);
 }

@@ -10,6 +10,7 @@ public class ResultCommand extends Command {
         if (previousCommand.equals("RACE") || previousCommand.equals("RESULT")) {
             return true;
         }
+        System.out.print("You can't give Result Command because previous Command was " + previousCommand);
         return false;
     }
 

@@ -4,8 +4,8 @@ import Forma1.Command.*;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
 import java.util.Objects;
+import java.util.Scanner;
 
 public class Main {
 
@@ -59,6 +59,7 @@ public class Main {
                 return command.executable(previousCommand);
 
             default:
+                System.out.print("The " + commandLine[0] + " Not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
                 return false;
         }
     }
@@ -107,41 +108,51 @@ public class Main {
     }
 
     public static void readFile(String fileName) {
-
         File file = new File(fileName);
+        if (file.exists()){
+            try (FileInputStream fis = new FileInputStream(file);
+                 InputStreamReader isr = new InputStreamReader(fis, StandardCharsets.ISO_8859_1);
+                 BufferedReader reader = new BufferedReader(isr)
+            ) {
 
-        try (FileInputStream fis = new FileInputStream(file);
-             InputStreamReader isr = new InputStreamReader(fis, StandardCharsets.ISO_8859_1);
-             BufferedReader reader = new BufferedReader(isr)
-        ) {
+                String inputLine;
+                String previousCommand = "FINISH";
+                int lineCounter = 1;
+                while ((inputLine = reader.readLine()) != null) {
+                    if (!inputLine.isEmpty()) {
+                        String[] inputStringTrimmed = inputLine.split(";", 0);
+                        boolean ok = validCommand(inputStringTrimmed, previousCommand);
+                        if(ok){
+                            executeCommand(inputStringTrimmed);
+                            //System.out.println(Arrays.toString(inputStringTrimmed));
+                            //System.out.println(ok);
+                            previousCommand = inputStringTrimmed[0];
+                        }
+                        else { System.out.println(" At the line " + lineCounter);}
+                        lineCounter++;
+                    }
 
-            String inputLine;
-            String previousCommand = "FINISH";
-            while (!Objects.equals(inputLine = reader.readLine(), "EXIT")) {
-                if (!inputLine.isEmpty()) {
-                    String[] inputStringTrimmed = inputLine.split(";", 0);
-                    boolean ok = validCommand(inputStringTrimmed, previousCommand);
-                    executeCommand(inputStringTrimmed);
-                    System.out.println(Arrays.toString(inputStringTrimmed));
-                    System.out.println(ok);
-                    previousCommand = inputStringTrimmed[0];
                 }
 
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println(e.getMessage());
             }
-
-        } catch (IOException e) {
-            e.printStackTrace();
-            System.out.println(e.getMessage());
+        }else {
+            System.out.println("This file is not existing");
         }
-
     }
 
     public static void main(String[] args) {
-        DatabaseSingleton.getInstance();
-        readFile("input-hf.txt");
-        System.out.println(DatabaseSingleton.getInstance().getDatabase().toString());
-        /*for (Map.Entry<String, String> entry : map.entrySet()) {
-            System.out.println(entry.getKey() + "/" + entry.getValue());
-        }*/
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please give me a file name or if you want to exit type 'F4'");
+        String inputFromConsole;
+        while (!Objects.equals(inputFromConsole = scanner.nextLine(), "F4")){
+            if(!inputFromConsole.equals("EXIT")){
+            readFile(inputFromConsole);
+            //System.out.println(DatabaseSingleton.getInstance().getDatabase().toString());
+            System.out.println("Please give me a file name or if you want to exit type 'F4'");
+            }
+        }
     }
 }

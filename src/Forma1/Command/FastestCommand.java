@@ -11,6 +11,7 @@ public class FastestCommand extends Command {
         if (previousCommand.equals("RESULT")) {
             return true;
         }
+        System.out.print("You can't give Fastest Command because previous Command was " + previousCommand);
         return false;
     }
 
