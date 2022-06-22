@@ -48,6 +48,7 @@ public class Year {
         if(calculationStrategy == null) {
             System.out.println("PointCalculation is missing " + DatabaseSingleton.getInstance().getQueriedYear());
         }
+        System.out.println("-----------------------------------------------------------------------");
         System.out.println(DatabaseSingleton.getInstance().getQueriedYear() + " year WORLD RANKING");
 
 
@@ -72,6 +73,7 @@ public class Year {
             System.out.println(position + " " +entry.getKey() + " : " + entry.getValue() + " point");
             position++;
         }
+        System.out.println("-----------------------------------------------------------------------");
 
     }
 

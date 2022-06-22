@@ -61,7 +61,7 @@ public class Main {
                 return command.executable(previousCommand);
 
             default:
-                System.out.print("The " + commandLine[0] + "it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
+                System.out.print("The " + commandLine[0] + " it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
                 return false;
         }
     }
@@ -118,7 +118,7 @@ public class Main {
             ) {
 
                 String inputLine;
-                String previousCommand = "FINISH";
+                String previousCommand = "Nothing";
                 int lineCounter = 1;
                 while ((inputLine = reader.readLine()) != null) {
                     if (!inputLine.isEmpty()) {
@@ -130,7 +130,7 @@ public class Main {
                             //System.out.println(ok);
                             previousCommand = inputStringTrimmed[0];
                         }
-                        else { System.out.println(" At the line " + lineCounter);}
+                        else { System.out.println(" [ERROR line : " + lineCounter + "]") ;}
                         lineCounter++;
                     }
 
@@ -146,6 +146,22 @@ public class Main {
     }
 
     static Map<String,Command> commands = new HashMap<>();
+
+    /*public static Command validCommand(String input) {
+        Command command;
+        if(commands.containsKey(input)){
+            command = commands.get(input);
+            if(command.executable(previousCommand)){
+                executeCommand(inputStringTrimmed);
+                previousCommand = inputStringTrimmed[0];
+            } else {}
+            lineCounter++;
+        }
+        else {
+            System.out.print("The " + input + "it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
+        }
+        return command;
+    }*/
 
     public static void main(String[] args) {
         //command init

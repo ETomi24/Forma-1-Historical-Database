@@ -5,7 +5,7 @@ import Forma1.DatabaseSingleton;
 public class QueryCommand extends Command {
     @Override
     public boolean executable(String previousCommand) {
-        if (previousCommand.equals("POINT") || previousCommand.equals("FINISH")) {
+        if (previousCommand.equals("POINT") || previousCommand.equals("FINISH") || previousCommand.equals("Nothing")) {
             return true;
         }
         System.out.print("You can't give QUERY Command because previous Command was " + previousCommand);

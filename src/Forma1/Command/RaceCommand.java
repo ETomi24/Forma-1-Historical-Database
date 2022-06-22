@@ -7,7 +7,7 @@ public class RaceCommand extends Command {
 
     @Override
     public boolean executable(String previousCommand) {
-        if (previousCommand.equals("FINISH") || previousCommand.equals("POINT")) {
+        if (previousCommand.equals("FINISH") || previousCommand.equals("POINT") || previousCommand.equals("Nothing")) {
             return true;
         }
         System.out.print("You can't give Race Command because previous Command was " + previousCommand);
