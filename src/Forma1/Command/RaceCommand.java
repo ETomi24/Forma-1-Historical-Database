@@ -5,17 +5,37 @@ import Forma1.Model.Race;
 
 public class RaceCommand extends Command {
 
+    private boolean validateMultiplier(double value) {
+        if (value == 0.0) {
+            return true;
+        }
+        if (value == 0.5) {
+            return true;
+        }
+        if (value == 1.0) {
+            return true;
+        }
+        if (value == 2.0) {
+            return true;
+        }
+        System.out.print("Multiplier value not correct at RACE COMMAND choose from these values [0, 1, 0.5 ,2]");
+        return false;
+    }
+
     @Override
     public boolean executable(String previousCommand) {
         if (previousCommand.equals("FINISH") || previousCommand.equals("POINT") || previousCommand.equals("Nothing")) {
-            return true;
+            if (argumentsLengthCheck(5 , "RACE")){
+                double value = Double.parseDouble(input[4]);
+                return validateMultiplier(value);
+            } else { return false;}
         }
         System.out.print("You can't give Race Command because previous Command was " + previousCommand);
         return false;
     }
 
     @Override
-    public void execute(String[] input) {
+    public void execute() {
         int year = Integer.parseInt(input[1]);
         if (DatabaseSingleton.getInstance().getDatabase().get(year) == null){
             DatabaseSingleton.getInstance().addYear(year);

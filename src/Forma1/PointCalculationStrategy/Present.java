@@ -27,7 +27,6 @@ public class Present implements PointCalculationStrategy {
         int raceCounter = 0;
 
         for (Race race : year.getRaceList()) {
-            race.getFastestLap().setValid(race.getResultList());
             if(raceCounter < countTo) {
                 for (int i = 0; i < 10; i++) {
                     if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
@@ -37,10 +36,13 @@ public class Present implements PointCalculationStrategy {
                     double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
                     year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
                 }
-                if (race.getFastestLap().getValid()){
-                    double oldValue = year.getDriverStandings().get(race.getFastestLap().getName());
-                    double newValue = oldValue + 1;
-                    year.getDriverStandings().put(race.getFastestLap().getName(),newValue);
+                if(race.getFastestLap() != null){
+                    race.getFastestLap().setValid(race.getResultList());
+                    if (race.getFastestLap().getValid()){
+                        double oldValue = year.getDriverStandings().get(race.getFastestLap().getName());
+                        double newValue = oldValue + 1;
+                        year.getDriverStandings().put(race.getFastestLap().getName(),newValue);
+                    }
                 }
             }else{break;}
 

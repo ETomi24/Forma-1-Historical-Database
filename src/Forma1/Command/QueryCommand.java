@@ -6,14 +6,14 @@ public class QueryCommand extends Command {
     @Override
     public boolean executable(String previousCommand) {
         if (previousCommand.equals("POINT") || previousCommand.equals("FINISH") || previousCommand.equals("Nothing")) {
-            return true;
+            return argumentsLengthCheck(2, "QUERY");
         }
         System.out.print("You can't give QUERY Command because previous Command was " + previousCommand);
         return false;
     }
 
     @Override
-    public void execute(String[] input) {
+    public void execute() {
         int year = Integer.parseInt(input[1]);
         if(input.length == 2){
             DatabaseSingleton.getInstance().setQueriedYear(year);

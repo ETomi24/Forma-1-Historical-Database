@@ -28,12 +28,12 @@ public class New implements PointCalculationStrategy {
         for (Race race : year.getRaceList()) {
             if (raceCounter < countTo) {
                 for (int i = 0; i < 10; i++) {
-                if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
-                    year.getDriverStandings().put(race.getResultList().get(i).getName(),0.0);
-                }
-                double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
-                double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
-                year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
+                    if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
+                        year.getDriverStandings().put(race.getResultList().get(i).getName(),0.0);
+                    }
+                    double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
+                    double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
+                    year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
                 }
                 raceCounter++;
             }else {break;}

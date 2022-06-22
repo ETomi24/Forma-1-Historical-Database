@@ -8,7 +8,7 @@ public class FinishCommand extends Command {
     public boolean executable(String previousCommand) {
         if (previousCommand.equals("RESULT") || previousCommand.equals("FASTEST")) {
             int size = DatabaseSingleton.getInstance().getActualRace().getResultList().size();
-            if(size >= 10 ){
+            if(size >= 10){
                 return true;
             } else {
                 System.out.print("You have to add "+ (10-size) + " more result to the race to FINISH it");
@@ -21,7 +21,7 @@ public class FinishCommand extends Command {
     }
 
     @Override
-    public void execute(String[] input) {
+    public void execute() {
         DatabaseSingleton.getInstance().setActualRace(null);
     }
 
