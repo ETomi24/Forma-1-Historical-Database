@@ -4,6 +4,8 @@ import Forma1.Command.*;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -59,7 +61,7 @@ public class Main {
                 return command.executable(previousCommand);
 
             default:
-                System.out.print("The " + commandLine[0] + " Not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
+                System.out.print("The " + commandLine[0] + "it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
                 return false;
         }
     }
@@ -143,15 +145,25 @@ public class Main {
         }
     }
 
+    static Map<String,Command> commands = new HashMap<>();
+
     public static void main(String[] args) {
+        //command init
+        commands.put("RACE" , new RaceCommand());
+        commands.put("RESULT" , new ResultCommand());
+        commands.put("FASTEST" , new FastestCommand());
+        commands.put("FINISH" , new FinishCommand());
+        commands.put("QUERY" , new QueryCommand());
+        commands.put("POINT" , new PointCommand());
+
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please give me a file name or if you want to exit type 'F4'");
+        System.out.println("Please give me a file name or if you want to exit type 'CIAO'");
         String inputFromConsole;
-        while (!Objects.equals(inputFromConsole = scanner.nextLine(), "F4")){
-            if(!inputFromConsole.equals("EXIT")){
-            readFile(inputFromConsole);
-            //System.out.println(DatabaseSingleton.getInstance().getDatabase().toString());
-            System.out.println("Please give me a file name or if you want to exit type 'F4'");
+        while (!Objects.equals(inputFromConsole = scanner.nextLine(), "CIAO")){
+            if(!inputFromConsole.equals("CIAO")){
+                readFile(inputFromConsole);
+                DatabaseSingleton.getInstance().setDatabase(new HashMap<>());
+                System.out.println("Please give me a file name or if you want to exit type 'CIAO'");
             }
         }
     }

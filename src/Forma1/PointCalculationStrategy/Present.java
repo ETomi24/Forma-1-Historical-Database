@@ -23,21 +23,24 @@ public class Present implements PointCalculationStrategy {
     }
 
     @Override
-    public void calculate(Year year) {
+    public void calculate(Year year , int countTo) {
+        int raceCounter = 0;
         for (Race race : year.getRaceList()) {
-            for (int i = 0; i < 10; i++) {
-                if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
-                    year.getDriverStandings().put(race.getResultList().get(i).getName(),0.0);
+            if(raceCounter < countTo) {
+                for (int i = 0; i < 10; i++) {
+                    if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
+                        year.getDriverStandings().put(race.getResultList().get(i).getName(),0.0);
+                    }
+                    double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
+                    double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
+                    year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
                 }
-                double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
-                double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
-                year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
-            }
-            if (race.getFastestLap().getValid()){
-                double oldValue = year.getDriverStandings().get(race.getFastestLap().getName());
-                double newValue = oldValue + 1;
-                year.getDriverStandings().put(race.getFastestLap().getName(),newValue);
-            }
+                if (race.getFastestLap().getValid()){
+                    double oldValue = year.getDriverStandings().get(race.getFastestLap().getName());
+                    double newValue = oldValue + 1;
+                    year.getDriverStandings().put(race.getFastestLap().getName(),newValue);
+                }
+            }else{break;}
 
         }
     }

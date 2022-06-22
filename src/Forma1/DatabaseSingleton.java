@@ -12,8 +12,8 @@ public class DatabaseSingleton {
     private Map<Integer, Year> database;
 
     private Race actualRace;
-    private int queriedYear;
-    private int queriedRace;
+    private int queriedYear = -1;
+    private int queriedRace = -1;
 
     private DatabaseSingleton() {
         this.database = new HashMap<>();
@@ -59,6 +59,8 @@ public class DatabaseSingleton {
         return database;
     }
 
+
+
     @Override
     public String toString() {
         return "DatabaseSingleton{" +
@@ -66,4 +68,7 @@ public class DatabaseSingleton {
                 '}';
     }
 
+    public void setDatabase(Map<Integer, Year> database) {
+        this.database = database;
+    }
 }

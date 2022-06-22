@@ -21,6 +21,7 @@ public class Year {
 
     public void addRace(Race race) {
         raceList.add(race);
+        raceList.sort(Comparator.comparing(Race::getRaceCounter));
     }
 
     public List<Race> getRaceList() {
@@ -43,29 +44,31 @@ public class Year {
         this.calculationStrategy = calculationStrategy;
     }
 
-    public void printStandings() {
+    public void printStandings(int countTo) {
         if(calculationStrategy == null) {
             System.out.println("PointCalculation is missing " + DatabaseSingleton.getInstance().getQueriedYear());
         }
         System.out.println(DatabaseSingleton.getInstance().getQueriedYear() + " year WORLD RANKING");
 
+
         //inicializálás
+        driverStandings = new HashMap<>();
         for (Result result : raceList.get(0).getResultList()){
                 driverStandings.put(result.getName(), 0.0);
         }
 
         //számítás
-        calculationStrategy.calculate(this);
+        calculationStrategy.calculate(this , countTo);
 
         //rendezés
-        Map<String, Double> result = driverStandings.entrySet().stream()
+        driverStandings = driverStandings.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                 .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
 
         //kiíratás
         int position = 1;
-        for (Map.Entry<String, Double> entry : result.entrySet()) {
+        for (Map.Entry<String, Double> entry : driverStandings.entrySet()) {
             System.out.println(position + " " +entry.getKey() + " : " + entry.getValue() + " point");
             position++;
         }

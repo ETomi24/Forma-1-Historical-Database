@@ -22,22 +22,20 @@ public class Modern implements PointCalculationStrategy {
     }
 
     @Override
-    public void calculate(Year year) {
-        int raceCounter = 1;
+    public void calculate(Year year , int countTo) {
+        int raceCounter = 0;
         for (Race race : year.getRaceList()) {
-            int counter = 1;
-            for (int i = 0; i < 8; i++) {
-                //System.out.println("Counter:" + counter++);
-                //System.out.println(race.getResultList().get(i).getName());
-                //System.out.println(year.getDriverStandings().containsKey(race.getResultList().get(i).getName()));
-                if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
-                    year.getDriverStandings().put(race.getResultList().get(i).getName(),0.0);
+            if (raceCounter < countTo) {
+                for (int i = 0; i < 8; i++) {
+                    if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())) {
+                        year.getDriverStandings().put(race.getResultList().get(i).getName(), 0.0);
+                    }
+                    double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
+                    double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
+                    year.getDriverStandings().put(race.getResultList().get(i).getName(), newValue);
                 }
-                double oldValue = year.getDriverStandings().get(race.getResultList().get(i).getName());
-                double newValue = oldValue + (multipliers.get(i) * race.getPointsMultiplier());
-                year.getDriverStandings().put(race.getResultList().get(i).getName(),newValue);
-            }
-            //System.out.println("RaceCounter" + raceCounter++);
+                raceCounter++;
+            }else {break;}
         }
     }
 }
