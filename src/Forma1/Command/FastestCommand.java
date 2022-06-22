@@ -18,7 +18,6 @@ public class FastestCommand extends Command {
     @Override
     public void execute(String[] input) {
         FastestLap fastestLap = new FastestLap(input[1], input[2]);
-        fastestLap.setValid(DatabaseSingleton.getInstance().getActualRace().getResultList());
         DatabaseSingleton.getInstance().getActualRace().setFastestLap(fastestLap);
     }
 

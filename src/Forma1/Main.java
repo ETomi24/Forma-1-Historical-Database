@@ -152,13 +152,14 @@ public class Main {
         if(commands.containsKey(input)){
             command = commands.get(input);
             if(command.executable(previousCommand)){
+                command.setInput(inputStringTrimmed);
                 executeCommand(inputStringTrimmed);
                 previousCommand = inputStringTrimmed[0];
-            } else {}
+            } else { System.out.println(" [ERROR line : " + lineCounter + "]") ; }
             lineCounter++;
         }
         else {
-            System.out.print("The " + input + "it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
+            System.out.print("The " + input + " it's not a correct COMMAND please choose from these [RACE,RESULT,FASTEST,FINISH,QUERY,POINT]");
         }
         return command;
     }*/

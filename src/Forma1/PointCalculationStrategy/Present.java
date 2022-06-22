@@ -25,7 +25,9 @@ public class Present implements PointCalculationStrategy {
     @Override
     public void calculate(Year year , int countTo) {
         int raceCounter = 0;
+
         for (Race race : year.getRaceList()) {
+            race.getFastestLap().setValid(race.getResultList());
             if(raceCounter < countTo) {
                 for (int i = 0; i < 10; i++) {
                     if (!year.getDriverStandings().containsKey(race.getResultList().get(i).getName())){
